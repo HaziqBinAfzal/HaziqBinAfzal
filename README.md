@@ -1,36 +1,76 @@
-# 💫 About Me
+<div align="center">
 
-I’m Haziq Afzal, Co-Founder and CEO of [HR-Presents](https://github.com/HR-Presents).
+# Haziq Afzal
 
-I work across cybersecurity, secure software development, cloud, DevOps, automation, and AI supported workflows. I enjoy understanding how systems behave, finding better ways to solve technical problems, and turning ideas into useful products.
+### Co-Founder & CTO, HR-Presents | Software Engineering • Cybersecurity • Cloud & DevOps
 
-At HR-Presents, I help shape product direction, technical strategy, development priorities, and long term growth. I also stay involved in the engineering behind AegisLog AI and Sentrix.
+**Building secure software, reliable infrastructure, and practical automation.**
 
-I’m currently studying Cloud Cyber Security at Alnafi International College and continuing to strengthen my skills through practical work with Python, Linux, security tooling, infrastructure, monitoring, and automation.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-afzal/)
+[![HR-Presents](https://img.shields.io/badge/HR--Presents-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HR-Presents)
+[![Projects](https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaziqBinAfzal?tab=repositories)
 
-## 🌐 Connect
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-afzal-010b6636a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaziqBinAfzal)
-[![HR Presents](https://img.shields.io/badge/HR--Presents-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HR-Presents)
+---
 
-# 💻 Tech Stack
+## About me
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0F172A?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-2563EB?style=for-the-badge&logo=icloud&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-7C3AED?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-059669?style=for-the-badge&logo=githubactions&logoColor=white)
+I'm **Haziq Afzal**, Co-Founder & CTO of **HR-Presents** and a Udemy instructor. My work spans **cybersecurity, Python development, cloud and DevOps, Linux infrastructure, and automation**.
 
-## 🚀 Selected Work
+I enjoy building tools that solve practical engineering problems, from code security analysis and operational evidence to monitoring and infrastructure workflows. I work alongside **Ruveeha Ashfaq**, Co-Founder & CEO of HR-Presents, on software products and technical education.
 
-[AquaSentinel](https://github.com/HaziqBinAfzal/AquaSentinel) | [SFVDS](https://github.com/HaziqBinAfzal/sfvds) | [Linux Backup and Recovery](https://github.com/HaziqBinAfzal/linux-backup-recovery-system) | [Jira Python Automation](https://github.com/HaziqBinAfzal/jira-python-automation-bot) | [Smart Mount Manager](https://github.com/HaziqBinAfzal/Smart_Mount_Manager)
+I approach projects with an emphasis on **security, reproducibility, useful documentation, and operational clarity**.
+
+## Areas of focus
+
+| Domain | What I work on |
+| :--- | :--- |
+| **Security engineering** | Secure development, code analysis, threat detection concepts and evidence-driven reviews |
+| **Cloud & DevOps** | Docker, CI/CD workflows, GitHub Actions and infrastructure practice |
+| **Linux & systems** | Linux administration, troubleshooting, backups and recovery |
+| **Python & automation** | Developer tools, operational automation and integrations |
+| **Observability** | Prometheus, Grafana, logging and monitoring workflows |
+| **Technical education** | Practical training and cybersecurity awareness |
+
+## Technology toolkit
+
+**Languages & systems**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Infrastructure, delivery & monitoring**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+## Featured engineering work
+
+| Project | Focus |
+| :--- | :--- |
+| **[Sentrix V1](https://github.com/HR-Presents/HR-Presents-Sentrix)** | Python code security and quality analysis using Bandit, Pylint, Radon and Black; reporting and developer workflows |
+| **[AegisLog](https://github.com/HR-Presents/AegisLog)** | Security and operational evidence, CI workflows and reproducible engineering checks |
+| **[AquaVigil](https://github.com/HaziqBinAfzal/AquaVigil)** | Read-only water and desalination security decision support, monitoring and process evidence |
+| **[LinuxOps Enterprise Lab](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab)** | Collaborative, phased Linux systems engineering lab with documented implementation and evidence |
+| **[AI Log Analyzer](https://github.com/HaziqBinAfzal/AI-Log-Analyzer)** | Log analysis and automation experimentation |
+| **[Jira Python Automation Bot](https://github.com/HaziqBinAfzal/jira-python-automation-bot)** | Python-driven Jira workflow automation |
+
+### More infrastructure projects
+
+[Linux Backup & Recovery](https://github.com/HaziqBinAfzal/linux-backup-recovery-system) · [Smart Mount Manager](https://github.com/HaziqBinAfzal/Smart_Mount_Manager) · [AWS DevOps Practice](https://github.com/HaziqBinAfzal/aws-devops-zero-to-hero) · [Terraform Practice](https://github.com/HaziqBinAfzal/terraform-zero-to-hero)
+
+## Collaboration & teaching
+
+At **[HR-Presents](https://github.com/HR-Presents)**, I collaborate on practical software and cybersecurity education. My work combines technical implementation with documentation and learning resources designed to make complex topics approachable.
+
+**Explore:** [GitHub repositories](https://github.com/HaziqBinAfzal?tab=repositories) · [HR-Presents projects](https://github.com/HR-Presents) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/)
+
+---
+
+<div align="center"><sub>Secure by design. Clear in execution. Built to be useful.</sub></div>
