@@ -43,7 +43,7 @@ I approach projects with an emphasis on **security, reproducibility, useful docu
 | Qualification or training | Institution / issuer | Status |
 | :--- | :--- | :--- |
 | **AIOPS Level 6 — Artificial Intelligence** | Al Nafi International College | In progress · Aug 2025–Feb 2027 expected |
-| **Diploma in Cloud Cyber Security (RQF 3)** | Al Nafi International College · described on LinkedIn as EduQual Level 3 | Completed · Jun–Aug 2024 · Grade B |
+| **Diploma in Cloud Cyber Security (RQF 3)** | Al Nafi International College · EduQual Level 3 | Completed · Jun–Aug 2024 · Grade B |
 | **[AWS Knowledge: Amazon ECS Trained](https://www.credly.com/badges/1a9facfe-2f4e-4ab0-b9c2-70d6cd7904f9/public_url)** | Amazon Web Services (AWS) | Training badge · issued Sep 2026 |
 
 **Languages:** English — professional working proficiency · Urdu — native or bilingual proficiency.
