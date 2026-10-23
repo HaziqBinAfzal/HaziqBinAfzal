@@ -14,7 +14,7 @@ Abu Dhabi, UAE · AIOPS Level 6 student · Technical educator
 [![HR-Presents](https://img.shields.io/badge/HR--Presents-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HR-Presents)
 [![Projects](https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaziqBinAfzal?tab=repositories)
 
-[Projects](#featured-engineering-work) · [Experience](#experience) · [Education](#education--training) · [Courses](#our-udemy-courses) · [Full background](docs/professional-background.md)
+[Projects](#featured-engineering-work) · [Experience](#experience) · [Education](#education--training) · [Credentials](#credentials) · [Skills](#skills--practical-capabilities) · [Courses](#our-udemy-courses) · [Full background](docs/professional-background.md)
 
 </div>
 
@@ -44,7 +44,14 @@ I approach projects with an emphasis on **security, reproducibility, useful docu
 | :--- | :--- | :--- |
 | **AIOPS Level 6 — Artificial Intelligence** | Al Nafi International College | In progress · Aug 2025–Feb 2027 expected |
 | **Diploma in Cloud Cyber Security (RQF 3)** | Al Nafi International College · EduQual Level 3 | Completed · Jun–Aug 2024 · Grade B |
-| **[AWS Knowledge: Amazon ECS Trained](https://www.credly.com/badges/1a9facfe-2f4e-4ab0-b9c2-70d6cd7904f9/public_url)** | Amazon Web Services (AWS) | Training badge · issued Sep 2026 |
+
+## Credentials
+
+| Credential | Issuer | Issued | Verification |
+| :--- | :--- | :--- | :--- |
+| **AWS Knowledge: Amazon ECS Trained** | Amazon Web Services (AWS) | Sep 2026 | [View Credly badge](https://www.credly.com/badges/1a9facfe-2f4e-4ab0-b9c2-70d6cd7904f9/public_url) |
+
+**Credential type:** Amazon ECS training badge. My completed Cloud Cyber Security diploma and ongoing AIOPS Level 6 studies are listed separately above.
 
 **Languages:** English — professional working proficiency · Urdu — native or bilingual proficiency.
 
@@ -79,14 +86,34 @@ I approach projects with an emphasis on **security, reproducibility, useful docu
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-<details>
-<summary><strong>Additional skills listed on LinkedIn</strong></summary>
+## Skills & practical capabilities
 
-Red Hat Linux · CentOS · Cloud Security · Artificial Intelligence · Machine Learning · Anomaly Detection · Continuous Integration and Continuous Delivery (CI/CD)
+### Technical skills
 
-[Full skills and learning context](docs/professional-background.md#technical-skills-listed-on-linkedin)
+| Area | Skills listed on LinkedIn |
+| :--- | :--- |
+| **Security** | Cybersecurity · Cloud Security |
+| **Linux systems** | Linux · Red Hat Linux · CentOS |
+| **Programming & tooling** | Python · Bash · Git · Jira |
+| **DevOps & delivery** | DevOps · Docker · Continuous Integration and Continuous Delivery (CI/CD) |
+| **Monitoring** | Prometheus · Grafana |
+| **AI & analysis** | Artificial Intelligence · Machine Learning · Anomaly Detection |
 
-</details>
+### Applied work and learning
+
+| Capability | Where to explore it |
+| :--- | :--- |
+| **Linux administration** — system baselines, resources, SSH access and troubleshooting | [LinuxOps Enterprise Lab](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab) · Phase 01 evidence; later phases remain planned |
+| **Backup & recovery** — rsync, tar, GPG, SHA256, SSH, cron and restoration workflows | [Linux Backup & Recovery](https://github.com/HaziqBinAfzal/linux-backup-recovery-system) · group project documentation |
+| **Bash automation & integrity checks** — change detection, backups, versioning and rollback | [SFVDS](https://github.com/HaziqBinAfzal/sfvds) · collaborative shell project |
+| **Python code analysis** — security, quality, complexity, formatting and reporting | Sentrix · joint development with Ruveeha; source is private |
+| **Log investigation & evidence review** — supported logs, correlation and local reports | [AegisLog](https://github.com/HR-Presents/AegisLog) · joint development |
+| **Containers & observability** — Docker Compose, application metrics and dashboards | [AquaVigil](https://github.com/HaziqBinAfzal/AquaVigil) · educational prototype |
+| **Technical communication** — research, documentation, demonstrations and learning resources | [Our Udemy courses](#our-udemy-courses) · co-created with Ruveeha |
+
+**Additional study areas from LinkedIn:** networking, permissions, services, storage, access control, system hardening, SIEM, ethical hacking, web security, penetration testing and ISO 27001 concepts. These describe coursework and lab learning.
+
+[Full skills, education and experience context →](docs/professional-background.md)
 
 ## Featured engineering work
 
