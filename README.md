@@ -20,7 +20,7 @@
 
 I'm **Haziq Afzal**, Co-Founder & CTO of **HR-Presents** and a Udemy instructor. My work spans **cybersecurity, Python development, cloud and DevOps, Linux infrastructure, and automation**.
 
-I enjoy building tools that solve practical engineering problems, from code security analysis and operational evidence to monitoring and infrastructure workflows. I work alongside **Ruveeha Ashfaq**, Co-Founder & CEO of HR-Presents, on software products and technical education.
+I enjoy building tools that solve practical engineering problems, from code security analysis and operational evidence to monitoring and infrastructure workflows. I work alongside **[Ruveeha Ashfaq](https://github.com/ruveeha33)**, Co-Founder & CEO of HR-Presents, on software products and technical education.
 
 I approach projects with an emphasis on **security, reproducibility, useful documentation, and operational clarity**.
 
@@ -81,7 +81,22 @@ I approach projects with an emphasis on **security, reproducibility, useful docu
 
 At **[HR-Presents](https://github.com/HR-Presents)**, I collaborate on practical software and cybersecurity education. My work combines technical implementation with documentation and learning resources designed to make complex topics approachable.
 
-**Technical education:** I co-create practical learning material through HR-Presents, including [Think Before You Click: The Online Safety Course](https://www.udemy.com/course/think-before-you-click-the-online-safety-course/) and Docker-focused training. My teaching interests connect software engineering with real-world cybersecurity awareness and infrastructure practices.
+### Building together at HR-Presents
+
+I co-founded HR-Presents with **[Ruveeha Ashfaq](https://github.com/ruveeha33), Co-Founder & CEO and Udemy Instructor**. We collaborate on software products, technical learning resources and course development.
+
+**Connect with Ruveeha:** [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/)
+
+### Our Udemy courses
+
+Co-created and presented by **Haziq Afzal and Ruveeha Ashfaq** under HR-Presents.
+
+| Course | What it covers |
+| :--- | :--- |
+| **[Docker Pro Skills: Build, Secure & Deploy Applications](https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/)** | Docker fundamentals, Dockerfiles, image optimization, Compose, networking, security, troubleshooting, NGINX, Swarm, CI/CD and an e-commerce capstone, with introductory Kubernetes concepts |
+| **[Think Before You Click: The Online Safety Course](https://www.udemy.com/course/think-before-you-click-the-online-safety-course/)** | Practical cybersecurity awareness, scam recognition, account protection and safer everyday online decisions |
+
+My teaching interests connect software engineering with practical cybersecurity awareness and infrastructure skills.
 
 **Explore:** [GitHub repositories](https://github.com/HaziqBinAfzal?tab=repositories) · [HR-Presents projects](https://github.com/HR-Presents) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/)
 
