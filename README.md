@@ -56,16 +56,16 @@ I approach projects with an emphasis on **security, reproducibility, useful docu
 
 | Project | Focus |
 | :--- | :--- |
-| **[Sentrix V1](https://github.com/HR-Presents/HR-Presents-Sentrix)** | Python code security and quality analysis using Bandit, Pylint, Radon and Black; reporting and developer workflows |
-| **[AegisLog](https://github.com/HR-Presents/AegisLog)** | Security and operational evidence, CI workflows and reproducible engineering checks |
+| **[Sentrix V1](https://github.com/HR-Presents/HR-Presents-Sentrix)** | Python code security and quality analysis using Bandit, Pylint, Radon and Black; reporting and developer workflows. Source repository is private. |
+| **[AegisLog](https://github.com/HR-Presents/AegisLog)** | Read-only defensive log analysis and investigation with local HTML reports |
 | **[AquaVigil](https://github.com/HaziqBinAfzal/AquaVigil)** | Read-only water and desalination security decision support, monitoring and process evidence |
 | **[LinuxOps Enterprise Lab](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab)** | Collaborative, phased Linux systems engineering lab with documented implementation and evidence |
 | **[AI Log Analyzer](https://github.com/HaziqBinAfzal/AI-Log-Analyzer)** | Log analysis and automation experimentation |
-| **[Jira Python Automation Bot](https://github.com/HaziqBinAfzal/jira-python-automation-bot)** | Python-driven Jira workflow automation |
+| **[Linux Backup & Recovery](https://github.com/HaziqBinAfzal/linux-backup-recovery-system)** | Linux backup and recovery using rsync, GPG, SSH, SHA256 and cron |
 
 ### More infrastructure projects
 
-[Linux Backup & Recovery](https://github.com/HaziqBinAfzal/linux-backup-recovery-system) · [Smart Mount Manager](https://github.com/HaziqBinAfzal/Smart_Mount_Manager) · [AWS DevOps Practice](https://github.com/HaziqBinAfzal/aws-devops-zero-to-hero) · [Terraform Practice](https://github.com/HaziqBinAfzal/terraform-zero-to-hero)
+[Jira Python Automation Bot](https://github.com/HaziqBinAfzal/jira-python-automation-bot) · [Smart Mount Manager](https://github.com/HaziqBinAfzal/Smart_Mount_Manager) · [AWS DevOps Practice](https://github.com/HaziqBinAfzal/aws-devops-zero-to-hero) · [Terraform Practice](https://github.com/HaziqBinAfzal/terraform-zero-to-hero)
 
 ## GitHub activity
 
