@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123B70,100:1676C2&height=190&section=header&text=Haziq%20Afzal&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Cloud%20%26%20DevOps%20%7C%20Python%20%26%20Automation&descSize=15&descAlignY=62" alt="Haziq Afzal professional profile banner" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Haziq Afzal professional profile banner" width="100%" />
 
 # Haziq Afzal
 
