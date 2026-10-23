@@ -14,11 +14,42 @@ Abu Dhabi, UAE · AIOPS Level 6 student · Technical educator
 [![HR-Presents](https://img.shields.io/badge/HR--Presents-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HR-Presents)
 [![Projects](https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaziqBinAfzal?tab=repositories)
 
-[Projects](#featured-engineering-work) · [Demo gallery](docs/demo-gallery.md) · [Experience](#experience) · [Education](#education--training) · [Credentials](#credentials) · [Skills](#skills--practical-capabilities) · [Courses](#our-udemy-courses) · [Full background](docs/professional-background.md)
+[Projects](#featured-engineering-work) · [Demo gallery](docs/demo-gallery.md) · [Skills](#skills--practical-capabilities) · [Courses](#our-udemy-courses) · [Experience](#experience) · [Education](#education--training) · [Credentials](#credentials) · [Full background](docs/professional-background.md)
 
 </div>
 
 ---
+
+## Featured engineering work
+
+**[Explore the demo gallery →](docs/demo-gallery.md)** Real lab screenshots, synthetic demo instructions, source evidence and project case studies.
+
+| Project | Focus | Case study |
+| :--- | :--- | :--- |
+| **[Sentrix V1](https://github.com/HR-Presents/HR-Presents-Sentrix)** | Python code security and quality analysis using Bandit, Pylint, Radon and Black; reporting and developer workflows. Source repository is private. | [Public overview](docs/case-studies/sentrix.md) |
+| **[AegisLog](https://github.com/HR-Presents/AegisLog)** | Read-only defensive log analysis and investigation with local HTML reports | [Read case study](docs/case-studies/aegislog.md) |
+| **[AquaVigil](https://github.com/HaziqBinAfzal/AquaVigil)** | Read-only water and desalination security decision support, monitoring and process evidence | [Read case study](docs/case-studies/aquavigil.md) |
+| **[LinuxOps Enterprise Lab](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab)** | Collaborative, phased Linux systems engineering lab with documented implementation and evidence | [Read case study](docs/case-studies/linuxops.md) |
+| **[AI Log Analyzer](https://github.com/HaziqBinAfzal/AI-Log-Analyzer)** | Log analysis and automation experimentation | [Contributions](docs/professional-background.md#additional-github-work) |
+| **[Linux Backup & Recovery](https://github.com/HaziqBinAfzal/linux-backup-recovery-system)** | Linux backup and recovery using rsync, GPG, SSH, SHA256 and cron | [Workflow & credits](docs/professional-background.md#enterprise-linux-backup--recovery-system) |
+
+<details>
+<summary><strong>Contributions and shared project credits</strong></summary>
+
+### Contributions you can inspect
+
+- **Sentrix & AegisLog:** Joint product development with Ruveeha across planning, implementation, testing, documentation and releases. [AegisLog v2.1.17 release](https://github.com/HR-Presents/AegisLog/releases/tag/v2.1.17) includes Windows downloads, a Python wheel and checksums.
+- **AquaVigil:** Educational evidence analysis with Python, Flask and Docker Compose, including provenance, reports and Prometheus/Grafana observability. Human review remains essential.
+- **LinuxOps Enterprise Lab:** Haziq manages the Ubuntu environment; Ruveeha manages Rocky Linux. Phase 01 is complete with evidence; Phases 02–10 are planned.
+- **AI Log Analyzer:** My documented responsibility is frontend UI and API integration. Ruveeha handles backend/API work; Ambreen Imtiaz handles AI logic and classification.
+- **Backup & file versioning:** Group projects retain credit for Ruveeha, Ambreen Imtiaz and, on the backup project, Muhammad Buddha. [Project responsibilities and credits](docs/professional-background.md#project-contributions-and-credits).
+
+
+</details>
+
+### More infrastructure projects
+
+[Jira Python Automation Bot](https://github.com/HaziqBinAfzal/jira-python-automation-bot) · [Smart Mount Manager](https://github.com/HaziqBinAfzal/Smart_Mount_Manager) · [AWS DevOps Practice](https://github.com/HaziqBinAfzal/aws-devops-zero-to-hero) · [Terraform Practice](https://github.com/HaziqBinAfzal/terraform-zero-to-hero)
 
 ## About me
 
@@ -27,6 +58,66 @@ I'm **Haziq Afzal**, based in **Abu Dhabi, United Arab Emirates**. I'm Co-Founde
 I enjoy building tools that solve practical engineering problems, from code security analysis and operational evidence to monitoring and infrastructure workflows. I work alongside **[Ruveeha Ashfaq](https://github.com/ruveeha33)**, Co-Founder & CEO of HR-Presents, on software products and technical education.
 
 I approach projects with an emphasis on **security, reproducibility, useful documentation, and operational clarity**. My experience comes from study, hands-on labs and collaborative development. I welcome opportunities to contribute, gain professional experience and work with people building useful technology.
+
+## Skills & practical capabilities
+
+### Technical skills
+
+| Area | Skills listed on LinkedIn |
+| :--- | :--- |
+| **Security** | Cybersecurity · Cloud Security |
+| **Linux systems** | Linux · Red Hat Linux · CentOS |
+| **Programming & tooling** | Python · Bash · Git · Jira |
+| **DevOps & delivery** | DevOps · Docker · Continuous Integration and Continuous Delivery (CI/CD) |
+| **Monitoring** | Prometheus · Grafana |
+| **AI & analysis** | Artificial Intelligence · Machine Learning · Anomaly Detection |
+
+<details>
+<summary><strong>Explore applied skills, project evidence and study areas</strong></summary>
+
+### Applied work and learning
+
+| Capability | Where to explore it |
+| :--- | :--- |
+| **Linux administration** — system baselines, resources, SSH access and troubleshooting | [LinuxOps Enterprise Lab](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab) · Phase 01 evidence; later phases remain planned |
+| **Backup & recovery** — rsync, tar, GPG, SHA256, SSH, cron and restoration workflows | [Linux Backup & Recovery](https://github.com/HaziqBinAfzal/linux-backup-recovery-system) · group project documentation |
+| **Bash automation & integrity checks** — change detection, backups, versioning and rollback | [SFVDS](https://github.com/HaziqBinAfzal/sfvds) · collaborative shell project |
+| **Python code analysis** — security, quality, complexity, formatting and reporting | Sentrix · joint development with Ruveeha; source is private |
+| **Log investigation & evidence review** — supported logs, correlation and local reports | [AegisLog](https://github.com/HR-Presents/AegisLog) · joint development |
+| **Containers & observability** — Docker Compose, application metrics and dashboards | [AquaVigil](https://github.com/HaziqBinAfzal/AquaVigil) · educational prototype |
+| **Technical communication** — research, documentation, demonstrations and learning resources | [Our Udemy courses](#our-udemy-courses) · co-created with Ruveeha |
+
+**Additional study areas from LinkedIn:** networking, permissions, services, storage, access control, system hardening, SIEM, ethical hacking, web security, penetration testing and ISO 27001 concepts. These describe coursework and lab learning.
+
+[Full skills, education and experience context →](docs/professional-background.md)
+
+</details>
+
+## Collaboration & teaching
+
+At **[HR-Presents](https://github.com/HR-Presents)**, I collaborate on practical software and cybersecurity education. My work combines technical implementation with documentation and learning resources designed to make complex topics approachable.
+
+### Building together at HR-Presents
+
+I co-founded HR-Presents with **[Ruveeha Ashfaq](https://github.com/ruveeha33), Co-Founder & CEO and Udemy Instructor**. We collaborate on software products, technical learning resources and course development.
+
+**Connect with Ruveeha:** [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/)
+
+### Our Udemy courses
+
+Co-created and presented by **Haziq Afzal and Ruveeha Ashfaq** under HR-Presents.
+
+| Course | What it covers |
+| :--- | :--- |
+| **[Docker Pro Skills: Build, Secure & Deploy Applications](https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/)** | Docker fundamentals, Dockerfiles, image optimization, Compose, networking, security, troubleshooting, NGINX, Swarm, CI/CD and an e-commerce capstone, with introductory Kubernetes concepts |
+| **[Think Before You Click: The Online Safety Course](https://www.udemy.com/course/think-before-you-click-the-online-safety-course/)** | Practical cybersecurity awareness, scam recognition, account protection and safer everyday online decisions |
+
+My teaching interests connect software engineering with practical cybersecurity awareness and infrastructure skills.
+
+**More about my work:** [Experience, education, skills, services and honors](docs/professional-background.md) · [HR-Presents on LinkedIn](https://www.linkedin.com/company/hr-presents/)
+
+**Explore:** [GitHub repositories](https://github.com/HaziqBinAfzal?tab=repositories) · [HR-Presents projects](https://github.com/HR-Presents) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/)
+
 
 ## Experience
 
@@ -59,6 +150,9 @@ I approach projects with an emphasis on **security, reproducibility, useful docu
 
 ## Areas of focus
 
+<details>
+<summary><strong>Explore my engineering and learning focus</strong></summary>
+
 | Domain | What I work on |
 | :--- | :--- |
 | **Security engineering** | Secure development, code analysis, threat detection concepts and evidence-driven reviews |
@@ -68,6 +162,8 @@ I approach projects with an emphasis on **security, reproducibility, useful docu
 | **Observability** | Prometheus, Grafana, logging and monitoring workflows |
 | **Technical education** | Practical training and cybersecurity awareness |
 | **AI & analysis** | AIOps studies, machine learning and anomaly-detection learning |
+
+</details>
 
 ## Technology toolkit
 
@@ -86,60 +182,6 @@ I approach projects with an emphasis on **security, reproducibility, useful docu
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-## Skills & practical capabilities
-
-### Technical skills
-
-| Area | Skills listed on LinkedIn |
-| :--- | :--- |
-| **Security** | Cybersecurity · Cloud Security |
-| **Linux systems** | Linux · Red Hat Linux · CentOS |
-| **Programming & tooling** | Python · Bash · Git · Jira |
-| **DevOps & delivery** | DevOps · Docker · Continuous Integration and Continuous Delivery (CI/CD) |
-| **Monitoring** | Prometheus · Grafana |
-| **AI & analysis** | Artificial Intelligence · Machine Learning · Anomaly Detection |
-
-### Applied work and learning
-
-| Capability | Where to explore it |
-| :--- | :--- |
-| **Linux administration** — system baselines, resources, SSH access and troubleshooting | [LinuxOps Enterprise Lab](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab) · Phase 01 evidence; later phases remain planned |
-| **Backup & recovery** — rsync, tar, GPG, SHA256, SSH, cron and restoration workflows | [Linux Backup & Recovery](https://github.com/HaziqBinAfzal/linux-backup-recovery-system) · group project documentation |
-| **Bash automation & integrity checks** — change detection, backups, versioning and rollback | [SFVDS](https://github.com/HaziqBinAfzal/sfvds) · collaborative shell project |
-| **Python code analysis** — security, quality, complexity, formatting and reporting | Sentrix · joint development with Ruveeha; source is private |
-| **Log investigation & evidence review** — supported logs, correlation and local reports | [AegisLog](https://github.com/HR-Presents/AegisLog) · joint development |
-| **Containers & observability** — Docker Compose, application metrics and dashboards | [AquaVigil](https://github.com/HaziqBinAfzal/AquaVigil) · educational prototype |
-| **Technical communication** — research, documentation, demonstrations and learning resources | [Our Udemy courses](#our-udemy-courses) · co-created with Ruveeha |
-
-**Additional study areas from LinkedIn:** networking, permissions, services, storage, access control, system hardening, SIEM, ethical hacking, web security, penetration testing and ISO 27001 concepts. These describe coursework and lab learning.
-
-[Full skills, education and experience context →](docs/professional-background.md)
-
-## Featured engineering work
-
-**[Explore the demo gallery →](docs/demo-gallery.md)** Real lab screenshots, synthetic demo instructions, source evidence and project case studies.
-
-| Project | Focus | Case study |
-| :--- | :--- | :--- |
-| **[Sentrix V1](https://github.com/HR-Presents/HR-Presents-Sentrix)** | Python code security and quality analysis using Bandit, Pylint, Radon and Black; reporting and developer workflows. Source repository is private. | [Public overview](docs/case-studies/sentrix.md) |
-| **[AegisLog](https://github.com/HR-Presents/AegisLog)** | Read-only defensive log analysis and investigation with local HTML reports | [Read case study](docs/case-studies/aegislog.md) |
-| **[AquaVigil](https://github.com/HaziqBinAfzal/AquaVigil)** | Read-only water and desalination security decision support, monitoring and process evidence | [Read case study](docs/case-studies/aquavigil.md) |
-| **[LinuxOps Enterprise Lab](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab)** | Collaborative, phased Linux systems engineering lab with documented implementation and evidence | [Read case study](docs/case-studies/linuxops.md) |
-| **[AI Log Analyzer](https://github.com/HaziqBinAfzal/AI-Log-Analyzer)** | Log analysis and automation experimentation | [Contributions](docs/professional-background.md#additional-github-work) |
-| **[Linux Backup & Recovery](https://github.com/HaziqBinAfzal/linux-backup-recovery-system)** | Linux backup and recovery using rsync, GPG, SSH, SHA256 and cron | [Workflow & credits](docs/professional-background.md#enterprise-linux-backup--recovery-system) |
-
-### Contributions you can inspect
-
-- **Sentrix & AegisLog:** Joint product development with Ruveeha across planning, implementation, testing, documentation and releases. [AegisLog v2.1.17 release](https://github.com/HR-Presents/AegisLog/releases/tag/v2.1.17) includes Windows downloads, a Python wheel and checksums.
-- **AquaVigil:** Educational evidence analysis with Python, Flask and Docker Compose, including provenance, reports and Prometheus/Grafana observability. Human review remains essential.
-- **LinuxOps Enterprise Lab:** Haziq manages the Ubuntu environment; Ruveeha manages Rocky Linux. Phase 01 is complete with evidence; Phases 02–10 are planned.
-- **AI Log Analyzer:** My documented responsibility is frontend UI and API integration. Ruveeha handles backend/API work; Ambreen Imtiaz handles AI logic and classification.
-- **Backup & file versioning:** Group projects retain credit for Ruveeha, Ambreen Imtiaz and, on the backup project, Muhammad Buddha. [Project responsibilities and credits](docs/professional-background.md#project-contributions-and-credits).
-
-### More infrastructure projects
-
-[Jira Python Automation Bot](https://github.com/HaziqBinAfzal/jira-python-automation-bot) · [Smart Mount Manager](https://github.com/HaziqBinAfzal/Smart_Mount_Manager) · [AWS DevOps Practice](https://github.com/HaziqBinAfzal/aws-devops-zero-to-hero) · [Terraform Practice](https://github.com/HaziqBinAfzal/terraform-zero-to-hero)
-
 ## GitHub activity
 
 <div align="center">
@@ -150,30 +192,6 @@ I approach projects with an emphasis on **security, reproducibility, useful docu
 
 > Activity cards are provided by an external service and may occasionally be unavailable. GitHub’s own contribution graph remains the authoritative activity record.
 
-## Collaboration & teaching
-
-At **[HR-Presents](https://github.com/HR-Presents)**, I collaborate on practical software and cybersecurity education. My work combines technical implementation with documentation and learning resources designed to make complex topics approachable.
-
-### Building together at HR-Presents
-
-I co-founded HR-Presents with **[Ruveeha Ashfaq](https://github.com/ruveeha33), Co-Founder & CEO and Udemy Instructor**. We collaborate on software products, technical learning resources and course development.
-
-**Connect with Ruveeha:** [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/)
-
-### Our Udemy courses
-
-Co-created and presented by **Haziq Afzal and Ruveeha Ashfaq** under HR-Presents.
-
-| Course | What it covers |
-| :--- | :--- |
-| **[Docker Pro Skills: Build, Secure & Deploy Applications](https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/)** | Docker fundamentals, Dockerfiles, image optimization, Compose, networking, security, troubleshooting, NGINX, Swarm, CI/CD and an e-commerce capstone, with introductory Kubernetes concepts |
-| **[Think Before You Click: The Online Safety Course](https://www.udemy.com/course/think-before-you-click-the-online-safety-course/)** | Practical cybersecurity awareness, scam recognition, account protection and safer everyday online decisions |
-
-My teaching interests connect software engineering with practical cybersecurity awareness and infrastructure skills.
-
-**More about my work:** [Experience, education, skills, services and honors](docs/professional-background.md) · [HR-Presents on LinkedIn](https://www.linkedin.com/company/hr-presents/)
-
-**Explore:** [GitHub repositories](https://github.com/HaziqBinAfzal?tab=repositories) · [HR-Presents projects](https://github.com/HR-Presents) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/)
 
 ---
 
