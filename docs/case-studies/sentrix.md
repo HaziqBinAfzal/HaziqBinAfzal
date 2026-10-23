@@ -1,9 +1,20 @@
-# Sentrix V1 — Bringing Python analysis into one workflow
+# Sentrix V1 — Public Product Showcase
 
 [Profile](../../README.md) · [Demo gallery](../demo-gallery.md) · [Public LinkedIn overview](https://www.linkedin.com/in/haziq-afzal/)
 
 **Focus:** Python · code security · quality · complexity · reporting  
 **Credits:** Jointly developed by Haziq Afzal and Ruveeha Ashfaq under HR-Presents.
+
+## Start here
+
+| Review path | Public material |
+| :--- | :--- |
+| Understand the product | [Announcement and four-tool overview](https://www.linkedin.com/feed/update/urn:li:activity:7518587436281688064/) |
+| Explore the reporting approach | [Findings, evidence and remediation discussion](https://www.linkedin.com/feed/update/urn:li:activity:7497246132910178304/) |
+| Meet the co-founders | [Haziq Afzal](https://www.linkedin.com/in/haziq-afzal/) · [Ruveeha Ashfaq](https://www.linkedin.com/in/ruveeha-ashfaq/) |
+| See the wider portfolio | [HR-Presents](https://github.com/HR-Presents) · [Demo gallery](../demo-gallery.md) |
+
+**Source availability:** Sentrix is a private-source product. This public showcase is the entry point for visitors without repository access.
 
 ## The problem
 
