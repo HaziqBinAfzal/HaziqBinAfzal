@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123B70,100:1676C2&height=190&section=header&text=Haziq%20Afzal&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Cloud%20%26%20DevOps%20%7C%20Python%20%26%20Automation&descSize=15&descAlignY=62" alt="Haziq Afzal professional profile banner" width="100%" />
+
 # Haziq Afzal
 
 ### Co-Founder & CTO, HR-Presents | Software Engineering • Cybersecurity • Cloud & DevOps
@@ -65,9 +67,21 @@ I approach projects with an emphasis on **security, reproducibility, useful docu
 
 [Linux Backup & Recovery](https://github.com/HaziqBinAfzal/linux-backup-recovery-system) · [Smart Mount Manager](https://github.com/HaziqBinAfzal/Smart_Mount_Manager) · [AWS DevOps Practice](https://github.com/HaziqBinAfzal/aws-devops-zero-to-hero) · [Terraform Practice](https://github.com/HaziqBinAfzal/terraform-zero-to-hero)
 
+## GitHub activity
+
+<div align="center">
+
+![GitHub contribution activity](https://github-readme-stats.vercel.app/api?username=HaziqBinAfzal&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github)
+
+</div>
+
+> Activity cards are provided by an external service and may occasionally be unavailable. GitHub’s own contribution graph remains the authoritative activity record.
+
 ## Collaboration & teaching
 
 At **[HR-Presents](https://github.com/HR-Presents)**, I collaborate on practical software and cybersecurity education. My work combines technical implementation with documentation and learning resources designed to make complex topics approachable.
+
+**Technical education:** I co-create practical learning material through HR-Presents, including [Think Before You Click: The Online Safety Course](https://www.udemy.com/course/think-before-you-click-the-online-safety-course/) and Docker-focused training. My teaching interests connect software engineering with real-world cybersecurity awareness and infrastructure practices.
 
 **Explore:** [GitHub repositories](https://github.com/HaziqBinAfzal?tab=repositories) · [HR-Presents projects](https://github.com/HR-Presents) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/)
 
