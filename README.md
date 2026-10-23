@@ -14,7 +14,7 @@ Abu Dhabi, UAE · AIOPS Level 6 student · Technical educator
 [![HR-Presents](https://img.shields.io/badge/HR--Presents-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HR-Presents)
 [![Projects](https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaziqBinAfzal?tab=repositories)
 
-[Projects](#featured-engineering-work) · [Experience](#experience) · [Education](#education--training) · [Credentials](#credentials) · [Skills](#skills--practical-capabilities) · [Courses](#our-udemy-courses) · [Full background](docs/professional-background.md)
+[Projects](#featured-engineering-work) · [Demo gallery](docs/demo-gallery.md) · [Experience](#experience) · [Education](#education--training) · [Credentials](#credentials) · [Skills](#skills--practical-capabilities) · [Courses](#our-udemy-courses) · [Full background](docs/professional-background.md)
 
 </div>
 
@@ -117,14 +117,16 @@ I approach projects with an emphasis on **security, reproducibility, useful docu
 
 ## Featured engineering work
 
-| Project | Focus |
-| :--- | :--- |
-| **[Sentrix V1](https://github.com/HR-Presents/HR-Presents-Sentrix)** | Python code security and quality analysis using Bandit, Pylint, Radon and Black; reporting and developer workflows. Source repository is private. |
-| **[AegisLog](https://github.com/HR-Presents/AegisLog)** | Read-only defensive log analysis and investigation with local HTML reports |
-| **[AquaVigil](https://github.com/HaziqBinAfzal/AquaVigil)** | Read-only water and desalination security decision support, monitoring and process evidence |
-| **[LinuxOps Enterprise Lab](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab)** | Collaborative, phased Linux systems engineering lab with documented implementation and evidence |
-| **[AI Log Analyzer](https://github.com/HaziqBinAfzal/AI-Log-Analyzer)** | Log analysis and automation experimentation |
-| **[Linux Backup & Recovery](https://github.com/HaziqBinAfzal/linux-backup-recovery-system)** | Linux backup and recovery using rsync, GPG, SSH, SHA256 and cron |
+**[Explore the demo gallery →](docs/demo-gallery.md)** Real lab screenshots, synthetic demo instructions, source evidence and project case studies.
+
+| Project | Focus | Case study |
+| :--- | :--- | :--- |
+| **[Sentrix V1](https://github.com/HR-Presents/HR-Presents-Sentrix)** | Python code security and quality analysis using Bandit, Pylint, Radon and Black; reporting and developer workflows. Source repository is private. | [Public overview](docs/case-studies/sentrix.md) |
+| **[AegisLog](https://github.com/HR-Presents/AegisLog)** | Read-only defensive log analysis and investigation with local HTML reports | [Read case study](docs/case-studies/aegislog.md) |
+| **[AquaVigil](https://github.com/HaziqBinAfzal/AquaVigil)** | Read-only water and desalination security decision support, monitoring and process evidence | [Read case study](docs/case-studies/aquavigil.md) |
+| **[LinuxOps Enterprise Lab](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab)** | Collaborative, phased Linux systems engineering lab with documented implementation and evidence | [Read case study](docs/case-studies/linuxops.md) |
+| **[AI Log Analyzer](https://github.com/HaziqBinAfzal/AI-Log-Analyzer)** | Log analysis and automation experimentation | [Contributions](docs/professional-background.md#additional-github-work) |
+| **[Linux Backup & Recovery](https://github.com/HaziqBinAfzal/linux-backup-recovery-system)** | Linux backup and recovery using rsync, GPG, SSH, SHA256 and cron | [Workflow & credits](docs/professional-background.md#enterprise-linux-backup--recovery-system) |
 
 ### Contributions you can inspect
 
