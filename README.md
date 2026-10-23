@@ -8,9 +8,13 @@
 
 **Building secure software, reliable infrastructure, and practical automation.**
 
+Abu Dhabi, UAE · AIOPS Level 6 student · Technical educator
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-afzal/)
 [![HR-Presents](https://img.shields.io/badge/HR--Presents-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HR-Presents)
 [![Projects](https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaziqBinAfzal?tab=repositories)
+
+[Projects](#featured-engineering-work) · [Experience](#experience) · [Education](#education--training) · [Courses](#our-udemy-courses) · [Full background](docs/professional-background.md)
 
 </div>
 
@@ -18,11 +22,33 @@
 
 ## About me
 
-I'm **Haziq Afzal**, Co-Founder & CTO of **HR-Presents** and a Udemy instructor. My work spans **cybersecurity, Python development, cloud and DevOps, Linux infrastructure, and automation**.
+I'm **Haziq Afzal**, based in **Abu Dhabi, United Arab Emirates**. I'm Co-Founder & CTO of **HR-Presents**, a **Udemy instructor**, and currently pursuing **AIOPS Level 6 at Al Nafi International College**. My work and study span **cybersecurity, Python development, cloud and DevOps, Linux infrastructure, AI and automation**.
 
 I enjoy building tools that solve practical engineering problems, from code security analysis and operational evidence to monitoring and infrastructure workflows. I work alongside **[Ruveeha Ashfaq](https://github.com/ruveeha33)**, Co-Founder & CEO of HR-Presents, on software products and technical education.
 
-I approach projects with an emphasis on **security, reproducibility, useful documentation, and operational clarity**.
+I approach projects with an emphasis on **security, reproducibility, useful documentation, and operational clarity**. My experience comes from study, hands-on labs and collaborative development. I welcome opportunities to contribute, gain professional experience and work with people building useful technology.
+
+## Experience
+
+| Role | Organization | Since | Contribution |
+| :--- | :--- | :--- | :--- |
+| **Co-Founder & CTO** | [HR-Presents](https://github.com/HR-Presents) | Aug 2026 | Joint product planning, development, testing, troubleshooting, documentation and release preparation with Ruveeha |
+| **Udemy Instructor** | Udemy / HR-Presents | Sep 2026 | Co-created and presented two published courses; curriculum, demonstrations, recording, quizzes and downloadable resources |
+| **Student Member** | Al Nafi International College | Aug 2026 | Structured learning and lab exercises across Linux, cloud, security, DevOps and automation |
+
+**How I contribute:** I work across the development lifecycle, connecting Python and Bash, Linux, Docker, Git and CI/CD with clear technical documentation. Both HR-Presents founders share ownership and credit.
+
+## Education & training
+
+| Qualification or training | Institution / issuer | Status |
+| :--- | :--- | :--- |
+| **AIOPS Level 6 — Artificial Intelligence** | Al Nafi International College | In progress · Aug 2025–Feb 2027 expected |
+| **Diploma in Cloud Cyber Security (RQF 3)** | Al Nafi International College · described on LinkedIn as EduQual Level 3 | Completed · Jun–Aug 2024 · Grade B |
+| **[AWS Knowledge: Amazon ECS Trained](https://www.credly.com/badges/1a9facfe-2f4e-4ab0-b9c2-70d6cd7904f9/public_url)** | Amazon Web Services (AWS) | Training badge · issued Sep 2026 |
+
+**Languages:** English — professional working proficiency · Urdu — native or bilingual proficiency.
+
+[Explore my full background, learning activities, services and honors →](docs/professional-background.md)
 
 ## Areas of focus
 
@@ -34,6 +60,7 @@ I approach projects with an emphasis on **security, reproducibility, useful docu
 | **Python & automation** | Developer tools, operational automation and integrations |
 | **Observability** | Prometheus, Grafana, logging and monitoring workflows |
 | **Technical education** | Practical training and cybersecurity awareness |
+| **AI & analysis** | AIOps studies, machine learning and anomaly-detection learning |
 
 ## Technology toolkit
 
@@ -52,6 +79,15 @@ I approach projects with an emphasis on **security, reproducibility, useful docu
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
+<details>
+<summary><strong>Additional skills listed on LinkedIn</strong></summary>
+
+Red Hat Linux · CentOS · Cloud Security · Artificial Intelligence · Machine Learning · Anomaly Detection · Continuous Integration and Continuous Delivery (CI/CD)
+
+[Full skills and learning context](docs/professional-background.md#technical-skills-listed-on-linkedin)
+
+</details>
+
 ## Featured engineering work
 
 | Project | Focus |
@@ -62,6 +98,14 @@ I approach projects with an emphasis on **security, reproducibility, useful docu
 | **[LinuxOps Enterprise Lab](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab)** | Collaborative, phased Linux systems engineering lab with documented implementation and evidence |
 | **[AI Log Analyzer](https://github.com/HaziqBinAfzal/AI-Log-Analyzer)** | Log analysis and automation experimentation |
 | **[Linux Backup & Recovery](https://github.com/HaziqBinAfzal/linux-backup-recovery-system)** | Linux backup and recovery using rsync, GPG, SSH, SHA256 and cron |
+
+### Contributions you can inspect
+
+- **Sentrix & AegisLog:** Joint product development with Ruveeha across planning, implementation, testing, documentation and releases. [AegisLog v2.1.17 release](https://github.com/HR-Presents/AegisLog/releases/tag/v2.1.17) includes Windows downloads, a Python wheel and checksums.
+- **AquaVigil:** Educational evidence analysis with Python, Flask and Docker Compose, including provenance, reports and Prometheus/Grafana observability. Human review remains essential.
+- **LinuxOps Enterprise Lab:** Haziq manages the Ubuntu environment; Ruveeha manages Rocky Linux. Phase 01 is complete with evidence; Phases 02–10 are planned.
+- **AI Log Analyzer:** My documented responsibility is frontend UI and API integration. Ruveeha handles backend/API work; Ambreen Imtiaz handles AI logic and classification.
+- **Backup & file versioning:** Group projects retain credit for Ruveeha, Ambreen Imtiaz and, on the backup project, Muhammad Buddha. [Project responsibilities and credits](docs/professional-background.md#project-contributions-and-credits).
 
 ### More infrastructure projects
 
@@ -97,6 +141,8 @@ Co-created and presented by **Haziq Afzal and Ruveeha Ashfaq** under HR-Presents
 | **[Think Before You Click: The Online Safety Course](https://www.udemy.com/course/think-before-you-click-the-online-safety-course/)** | Practical cybersecurity awareness, scam recognition, account protection and safer everyday online decisions |
 
 My teaching interests connect software engineering with practical cybersecurity awareness and infrastructure skills.
+
+**More about my work:** [Experience, education, skills, services and honors](docs/professional-background.md) · [HR-Presents on LinkedIn](https://www.linkedin.com/company/hr-presents/)
 
 **Explore:** [GitHub repositories](https://github.com/HaziqBinAfzal?tab=repositories) · [HR-Presents projects](https://github.com/HR-Presents) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/)
 
