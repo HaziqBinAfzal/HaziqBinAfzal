@@ -4,9 +4,9 @@
 
 # Haziq Afzal
 
-![Co-Founder & CTO](https://img.shields.io/badge/Co--Founder_%26_CTO-7C3AED?style=for-the-badge&logoColor=white)
+![Co-Founder & CTO](https://img.shields.io/badge/Co--Founder_%26_CTO-2563EB?style=for-the-badge&logoColor=white)
 ![Udemy Instructor](https://img.shields.io/badge/Udemy_Instructor-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-![HR-Presents](https://img.shields.io/badge/HR--Presents-DB2777?style=for-the-badge&logoColor=white)
+![HR-Presents](https://img.shields.io/badge/HR--Presents-0891B2?style=for-the-badge&logoColor=white)
 
 Abu Dhabi, UAE · AIOPS Level 6 student
 
@@ -66,49 +66,49 @@ Python, Linux and defensive security projects, built through study, hands-on lab
 
 **Programming & automation**
 
-![Python](https://img.shields.io/badge/Python-4C3275?style=for-the-badge&logo=python&logoColor=E9D5FF)
-![Bash](https://img.shields.io/badge/Bash-654493?style=for-the-badge&logo=gnubash&logoColor=E9D5FF)
-![Flask](https://img.shields.io/badge/Flask-593D88?style=for-the-badge&logo=flask&logoColor=E9D5FF)
-![Automation](https://img.shields.io/badge/Automation-7650A0?style=for-the-badge&logoColor=E9D5FF&logo=python)
-![REST APIs](https://img.shields.io/badge/REST_APIs-4C3275?style=for-the-badge&logoColor=E9D5FF)
-![Git](https://img.shields.io/badge/Git-654493?style=for-the-badge&logo=git&logoColor=E9D5FF)
-![Jira](https://img.shields.io/badge/Jira-593D88?style=for-the-badge&logo=jira&logoColor=E9D5FF)
+![Python](https://img.shields.io/badge/Python-123B63?style=for-the-badge&logo=python&logoColor=E0F2FE)
+![Bash](https://img.shields.io/badge/Bash-155E75?style=for-the-badge&logo=gnubash&logoColor=E0F2FE)
+![Flask](https://img.shields.io/badge/Flask-1D4ED8?style=for-the-badge&logo=flask&logoColor=E0F2FE)
+![Automation](https://img.shields.io/badge/Automation-0E7490?style=for-the-badge&logoColor=E0F2FE&logo=python)
+![REST APIs](https://img.shields.io/badge/REST_APIs-123B63?style=for-the-badge&logoColor=E0F2FE)
+![Git](https://img.shields.io/badge/Git-155E75?style=for-the-badge&logo=git&logoColor=E0F2FE)
+![Jira](https://img.shields.io/badge/Jira-1D4ED8?style=for-the-badge&logo=jira&logoColor=E0F2FE)
 
 **Linux & cloud**
 
-![Linux](https://img.shields.io/badge/Linux-7650A0?style=for-the-badge&logo=linux&logoColor=E9D5FF)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-4C3275?style=for-the-badge&logo=ubuntu&logoColor=E9D5FF)
-![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-654493?style=for-the-badge&logo=rockylinux&logoColor=E9D5FF)
-![Red Hat Linux](https://img.shields.io/badge/Red_Hat_Linux-593D88?style=for-the-badge&logo=redhat&logoColor=E9D5FF)
-![CentOS](https://img.shields.io/badge/CentOS-7650A0?style=for-the-badge&logo=centos&logoColor=E9D5FF)
-![AWS](https://img.shields.io/badge/AWS-4C3275?style=for-the-badge&logo=amazonwebservices&logoColor=E9D5FF)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-654493?style=for-the-badge&logoColor=E9D5FF)
-![SSH](https://img.shields.io/badge/SSH-593D88?style=for-the-badge&logoColor=E9D5FF)
-![rsync](https://img.shields.io/badge/rsync-7650A0?style=for-the-badge&logoColor=E9D5FF)
+![Linux](https://img.shields.io/badge/Linux-0E7490?style=for-the-badge&logo=linux&logoColor=E0F2FE)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-123B63?style=for-the-badge&logo=ubuntu&logoColor=E0F2FE)
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-155E75?style=for-the-badge&logo=rockylinux&logoColor=E0F2FE)
+![Red Hat Linux](https://img.shields.io/badge/Red_Hat_Linux-1D4ED8?style=for-the-badge&logo=redhat&logoColor=E0F2FE)
+![CentOS](https://img.shields.io/badge/CentOS-0E7490?style=for-the-badge&logo=centos&logoColor=E0F2FE)
+![AWS](https://img.shields.io/badge/AWS-123B63?style=for-the-badge&logo=amazonwebservices&logoColor=E0F2FE)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-155E75?style=for-the-badge&logoColor=E0F2FE)
+![SSH](https://img.shields.io/badge/SSH-1D4ED8?style=for-the-badge&logoColor=E0F2FE)
+![rsync](https://img.shields.io/badge/rsync-0E7490?style=for-the-badge&logoColor=E0F2FE)
 
 **DevOps & observability**
 
-![Docker](https://img.shields.io/badge/Docker-4C3275?style=for-the-badge&logo=docker&logoColor=E9D5FF)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-654493?style=for-the-badge&logo=docker&logoColor=E9D5FF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-593D88?style=for-the-badge&logo=githubactions&logoColor=E9D5FF)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-7650A0?style=for-the-badge&logo=githubactions&logoColor=E9D5FF)
-![DevOps](https://img.shields.io/badge/DevOps-4C3275?style=for-the-badge&logoColor=E9D5FF)
-![Prometheus](https://img.shields.io/badge/Prometheus-654493?style=for-the-badge&logo=prometheus&logoColor=E9D5FF)
-![Grafana](https://img.shields.io/badge/Grafana-593D88?style=for-the-badge&logo=grafana&logoColor=E9D5FF)
+![Docker](https://img.shields.io/badge/Docker-123B63?style=for-the-badge&logo=docker&logoColor=E0F2FE)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-155E75?style=for-the-badge&logo=docker&logoColor=E0F2FE)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1D4ED8?style=for-the-badge&logo=githubactions&logoColor=E0F2FE)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0E7490?style=for-the-badge&logo=githubactions&logoColor=E0F2FE)
+![DevOps](https://img.shields.io/badge/DevOps-123B63?style=for-the-badge&logoColor=E0F2FE)
+![Prometheus](https://img.shields.io/badge/Prometheus-155E75?style=for-the-badge&logo=prometheus&logoColor=E0F2FE)
+![Grafana](https://img.shields.io/badge/Grafana-1D4ED8?style=for-the-badge&logo=grafana&logoColor=E0F2FE)
 
 **Security & investigation**
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-7650A0?style=for-the-badge&logoColor=E9D5FF)
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-4C3275?style=for-the-badge&logoColor=E9D5FF)
-![SHA256](https://img.shields.io/badge/SHA256-654493?style=for-the-badge&logoColor=E9D5FF)
-![GPG](https://img.shields.io/badge/GPG-593D88?style=for-the-badge&logo=gnuprivacyguard&logoColor=E9D5FF)
-![Backup & Recovery](https://img.shields.io/badge/Backup_%26_Recovery-7650A0?style=for-the-badge&logoColor=E9D5FF)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0E7490?style=for-the-badge&logoColor=E0F2FE)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-123B63?style=for-the-badge&logoColor=E0F2FE)
+![SHA256](https://img.shields.io/badge/SHA256-155E75?style=for-the-badge&logoColor=E0F2FE)
+![GPG](https://img.shields.io/badge/GPG-1D4ED8?style=for-the-badge&logo=gnuprivacyguard&logoColor=E0F2FE)
+![Backup & Recovery](https://img.shields.io/badge/Backup_%26_Recovery-0E7490?style=for-the-badge&logoColor=E0F2FE)
 
 **AI & ongoing studies**
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-4C3275?style=for-the-badge&logoColor=E9D5FF)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-654493?style=for-the-badge&logoColor=E9D5FF&logo=scikitlearn)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-593D88?style=for-the-badge&logoColor=E9D5FF)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-123B63?style=for-the-badge&logoColor=E0F2FE)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-155E75?style=for-the-badge&logoColor=E0F2FE&logo=scikitlearn)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-1D4ED8?style=for-the-badge&logoColor=E0F2FE)
 
 Tools used across my projects and labs, alongside topics I’m studying. [Skills and learning context](docs/professional-background.md#technical-skills-listed-on-linkedin).
 
@@ -141,8 +141,8 @@ Our shared work includes curriculum, demonstrations, recording, quizzes, present
 <a href="./contribution-data.json"><img src="./contribution-activity.svg" width="100%" alt="GitHub contribution activity snapshot, January through 24 October 2026; October is partial" /></a>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HaziqBinAfzal&amp;show_icons=true&amp;hide_border=true&amp;bg_color=131426&amp;title_color=C084FC&amp;icon_color=22D3EE&amp;text_color=C7C2D8&amp;rank_icon=github" width="49%" alt="Haziq's public GitHub activity statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaziqBinAfzal&amp;layout=compact&amp;hide_border=true&amp;bg_color=131426&amp;title_color=C084FC&amp;text_color=C7C2D8&amp;langs_count=6" width="49%" alt="Language distribution in Haziq's public repositories" />
+<img src="https://github-readme-stats.vercel.app/api?username=HaziqBinAfzal&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=38BDF8&amp;icon_color=22D3EE&amp;text_color=CBD5E1&amp;rank_icon=github" width="49%" alt="Haziq's public GitHub activity statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaziqBinAfzal&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=38BDF8&amp;text_color=CBD5E1&amp;langs_count=6" width="49%" alt="Language distribution in Haziq's public repositories" />
 </p>
 
 <sub>Contribution chart: dated snapshot of GitHub’s displayed calendar, with October partial; click for the source counts. Statistics and language cards use external services. Language distribution can include documentation and learning repositories and does not measure proficiency. See GitHub’s contribution calendar below for current activity.</sub>

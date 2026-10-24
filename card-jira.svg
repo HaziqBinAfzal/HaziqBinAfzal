@@ -7,7 +7,7 @@
 <g transform="translate(461 37) scale(.85)" fill="none" stroke="#FBBF24" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="7" width="21" height="17" rx="4"/><rect x="38" y="40" width="21" height="17" rx="4"/><path d="M26 15h22v25M15 24v25h23m-8-7 8 7-8 7"/></g>
 <text x="28" y="35" fill="#FBBF24" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" letter-spacing="2" font-weight="700">06 / FEATURED PROJECT</text>
 <text x="28" y="86" fill="#F8F5FF" font-family="DejaVu Sans,Arial,sans-serif" font-size="27" font-weight="700">Jira Python Automation</text>
-<text x="28" y="119" fill="#C7C2D8" font-family="DejaVu Sans,Arial,sans-serif" font-size="15">Issue creation &amp; workflow tasks</text>
+<text x="28" y="119" fill="#CBD5E1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15">Issue creation &amp; workflow tasks</text>
 <line x1="28" y1="145" x2="532" y2="145" stroke="#34304A"/>
 <text x="28" y="174" fill="#FBBF24" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="600">Python · REST API · Jira</text>
 <text x="28" y="204" fill="#ABA4C0" font-family="DejaVu Sans,Arial,sans-serif" font-size="10" letter-spacing="1.4">HR-PRESENTS · COLLABORATIVE ENGINEERING</text>
