@@ -54,6 +54,18 @@ The [manifest](https://github.com/HR-Presents/AegisLog/blob/main/docs/demo/expec
 
 No reference or unverified UI image is presented here as a released-product screenshot.
 
+### Recorded streaming benchmark
+
+[![AegisLog streaming benchmark: three runs of 100,000 synthetic records, median 15,348.56 records per second, recorded 24 October 2026](../aegislog-benchmark-chart.svg)](verification/2026-10-24/README.md#streaming-benchmark)
+
+The chart uses the retained [benchmark JSON](verification/2026-10-24/aegislog-benchmark.json). It measures the streaming engine with tracemalloc overhead and excludes report rendering, native collection and live polling. These local synthetic timings are not a production-throughput or detection-accuracy guarantee.
+
+### Recorded streaming benchmark
+
+[![AegisLog streaming benchmark: three runs of 100,000 synthetic records, median 15,348.56 records per second, recorded 24 October 2026](../aegislog-benchmark-chart.svg)](verification/2026-10-24/README.md#streaming-benchmark)
+
+The chart uses the retained [benchmark JSON](verification/2026-10-24/aegislog-benchmark.json). It measures the streaming engine with tracemalloc overhead and excludes report rendering, native collection and live polling. These local synthetic timings are not a production-throughput or detection-accuracy guarantee.
+
 ## AquaVigil — a guided evidence review
 
 **Walkthrough:** start the local Docker Compose stack → upload `unexpected_dosing_incident.csv` → inspect provenance and process/security observations → open the report → inspect Prometheus/Grafana after analysis.
