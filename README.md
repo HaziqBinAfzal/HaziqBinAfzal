@@ -14,7 +14,7 @@ Abu Dhabi, UAE · AIOPS Level 6 student
 [![HR-Presents](https://img.shields.io/badge/HR--Presents-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HR-Presents)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaziqBinAfzal)
 
-[Projects](#featured-engineering-work) · [Demo gallery](docs/demo-gallery.md) · [Tech stack](#-tech-stack) · [Courses](#our-udemy-courses) · [Background](#background) · [Credentials](#credentials)
+[Engineering Focus](#engineering-focus) · [Projects](#featured-engineering-work) · [Evidence](#evidence-at-a-glance) · [Technical Toolkit](#technical-toolkit) · [Courses](#our-udemy-courses) · [Background](#background) · [Credentials](#credentials)
 
 </div>
 
@@ -24,20 +24,80 @@ Python, Linux and defensive security projects, built through study, hands-on lab
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
+## Engineering focus
+
+I build practical software and infrastructure projects across **Python, cybersecurity, Linux, cloud and DevOps**.
+
+My work emphasizes reproducible testing, defensive security, automation, clear documentation and evidence-backed engineering.
+
+| Software Engineering | Security & Infrastructure | Delivery & Observability |
+| :--- | :--- | :--- |
+| Python · Flask · REST APIs | Linux · SSH · Defensive Security | Docker · GitHub Actions |
+| Automation · Code Quality | Log Analysis · Backup & Recovery | CI/CD · Prometheus · Grafana |
+
+[Explore my projects](#featured-engineering-work) · [View engineering evidence](#evidence-at-a-glance) · [Connect on LinkedIn](https://www.linkedin.com/in/haziq-afzal/)
+
+---
 ## Featured engineering work
+
+### 01 / Flagship software
+
+<a href="docs/case-studies/sentrix.md">
+  <img src="./assets/card-sentrix.svg" width="100%" alt="Sentrix V1 — Python Code Security and Quality Analyzer" />
+</a>
+
+**Sentrix V1 — Python Code Security & Quality Analyzer**
+
+A collaborative HR-Presents product combining **Bandit, Pylint, Radon and Black** for Python security, code quality, complexity and formatting analysis.
+
+[Explore the product](docs/case-studies/sentrix.md)
+
+---
+
+### 02 / Defensive security engineering
+
+<a href="https://github.com/HR-Presents/AegisLog">
+  <img src="./assets/card-aegislog.svg" width="100%" alt="AegisLog — Defensive Log Investigation" />
+</a>
+
+**AegisLog — Defensive Log Investigation**
+
+Read-only investigation of security logs, with evidence review and local HTML reporting.
+
+[View repository](https://github.com/HR-Presents/AegisLog) · [Read case study](docs/case-studies/aegislog.md) · [Explore demo](https://github.com/HR-Presents/AegisLog/tree/main/docs/demo)
+
+---
+
+### 03 / Infrastructure, automation & applied security
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="docs/case-studies/sentrix.md"><img src="./card-sentrix.svg" width="100%" alt="Sentrix V1 — Python security & code quality" /></a><p>Python security, quality, complexity and formatting analysis with Bandit, Pylint, Radon and Black</p><p><a href="docs/case-studies/sentrix.md">Public product showcase</a></p></td>
-<td width="50%" valign="top"><a href="https://github.com/HR-Presents/AegisLog"><img src="./card-aegislog.svg" width="100%" alt="AegisLog — Defensive log investigation" /></a><p>Read-only defensive log investigation and local HTML reports</p><p><a href="docs/case-studies/aegislog.md">Case study</a> · <a href="https://github.com/HR-Presents/AegisLog/tree/main/docs/demo">Demo fixture</a></p></td>
+<td width="50%" valign="top">
+<a href="https://github.com/HaziqBinAfzal/AquaVigil"><img src="./assets/card-aquavigil.svg" width="100%" alt="AquaVigil" /></a>
+<p><strong>AquaVigil</strong></p>
+<p>Educational water/process and OT evidence analysis with Prometheus and Grafana observability.</p>
+<a href="docs/case-studies/aquavigil.md">Case study</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/HaziqBinAfzal/AI-Log-Analyzer"><img src="./assets/card-ai-log.svg" width="100%" alt="AI Log Analyzer" /></a>
+<p><strong>AI Log Analyzer</strong></p>
+<p>Collaborative Flask log-analysis dashboard. Haziq contributed frontend UI and API integration.</p>
+<a href="docs/professional-background.md#additional-github-work">Contributor responsibilities</a>
+</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/HaziqBinAfzal/AquaVigil"><img src="./card-aquavigil.svg" width="100%" alt="AquaVigil — Water, process & OT evidence review" /></a><p>Educational water/process and OT evidence analysis with Prometheus/Grafana observability</p><p><a href="docs/case-studies/aquavigil.md">Case study</a> · <a href="https://github.com/HaziqBinAfzal/AquaVigil/blob/main/docs/DEMONSTRATION_GUIDE.md">Walkthrough</a></p></td>
-<td width="50%" valign="top"><a href="https://github.com/HaziqBinAfzal/AI-Log-Analyzer"><img src="./card-ai-log.svg" width="100%" alt="AI Log Analyzer — Collaborative log-analysis dashboard" /></a><p>Linux log review through a Flask dashboard; my role is frontend UI and API integration</p><p><a href="docs/professional-background.md#additional-github-work">Contributor responsibilities</a></p></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/HaziqBinAfzal/linux-backup-recovery-system"><img src="./card-linux-backup.svg" width="100%" alt="Linux Backup & Recovery — Documented backup & restoration" /></a><p>rsync, tar, GPG, SHA256, SSH, cron and restoration workflow</p><p><a href="docs/professional-background.md#enterprise-linux-backup--recovery-system">Workflow and full group credits</a></p></td>
-<td width="50%" valign="top"><a href="https://github.com/HaziqBinAfzal/jira-python-automation-bot"><img src="./card-jira.svg" width="100%" alt="Jira Python Automation — Issue creation & workflow tasks" /></a><p>Joint Python REST API project for Jira issue creation and workflow tasks</p><p><a href="https://github.com/HaziqBinAfzal/jira-python-automation-bot">Repository</a></p></td>
+<td width="50%" valign="top">
+<a href="https://github.com/HaziqBinAfzal/linux-backup-recovery-system"><img src="./assets/card-linux-backup.svg" width="100%" alt="Linux Backup and Recovery" /></a>
+<p><strong>Linux Backup & Recovery</strong></p>
+<p>Documented backup and restoration using rsync, tar, GPG, SHA256, SSH and cron.</p>
+<a href="docs/professional-background.md#enterprise-linux-backup--recovery-system">Workflow and team credits</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/HaziqBinAfzal/jira-python-automation-bot"><img src="./assets/card-jira.svg" width="100%" alt="Jira Python Automation" /></a>
+<p><strong>Jira Python Automation</strong></p>
+<p>Collaborative Python REST API project for issue creation and workflow automation.</p>
+<a href="https://github.com/HaziqBinAfzal/jira-python-automation-bot">Repository</a>
+</td>
 </tr>
 </table>
 
@@ -62,7 +122,7 @@ Python, Linux and defensive security projects, built through study, hands-on lab
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
-## 💻 Tech Stack
+## Technical toolkit
 
 **Programming & automation**
 
@@ -114,7 +174,7 @@ Tools used across my projects and labs, alongside topics I’m studying. [Skills
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
-## Collaboration & teaching
+## Building together & teaching
 
 <img src="./founders-panel.svg" width="100%" alt="HR-Presents founders: Haziq Afzal — Co-Founder &amp; CTO; Ruveeha Ashfaq — Co-Founder &amp; CEO" />
 
@@ -136,7 +196,7 @@ Our shared work includes curriculum, demonstrations, recording, quizzes, present
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
-## GitHub activity & languages
+## Development activity
 
 <a href="./contribution-data.json"><img src="./contribution-activity.svg" width="100%" alt="GitHub contribution activity snapshot, January through 24 October 2026; October is partial" /></a>
 
@@ -203,7 +263,7 @@ The projects above connect these skills to inspectable work. AI topics also form
 
 </details>
 
-## Background & contact
+## Contact & opportunities
 
 I welcome opportunities to contribute, gain professional experience and build useful technology with others.
 
@@ -215,4 +275,4 @@ I welcome opportunities to contribute, gain professional experience and build us
 
 <img src="./profile-footer.svg" width="100%" alt="Secure by design. Clear in execution. Built to be useful." />
 
-<p align="center"><a href="#featured-engineering-work">Explore projects</a> · <a href="https://www.linkedin.com/in/haziq-afzal/">Connect on LinkedIn</a> · <a href="#our-udemy-courses">View courses</a></p>
+<p align="center"><a href="#featured-engineering-work">Explore engineering work</a> · <a href="https://www.linkedin.com/in/haziq-afzal/">Connect on LinkedIn</a> · <a href="#our-udemy-courses">View courses</a></p>
