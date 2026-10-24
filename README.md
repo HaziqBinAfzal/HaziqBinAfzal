@@ -4,43 +4,48 @@
 
 # Haziq Afzal
 
-### Co-Founder & CTO, HR-Presents · Udemy Instructor
-
-**Cybersecurity · Cloud & DevOps · Python & Automation**
-
 ![Co-Founder & CTO](https://img.shields.io/badge/Co--Founder_%26_CTO-7C3AED?style=for-the-badge&logoColor=white)
 ![Udemy Instructor](https://img.shields.io/badge/Udemy_Instructor-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
 ![HR-Presents](https://img.shields.io/badge/HR--Presents-DB2777?style=for-the-badge&logoColor=white)
 
 Abu Dhabi, UAE · AIOPS Level 6 student
 
-## 🌐 Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-afzal/)
 [![HR-Presents](https://img.shields.io/badge/HR--Presents-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HR-Presents)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaziqBinAfzal)
 
-[Projects](#featured-engineering-work) · [Demo gallery](docs/demo-gallery.md) · [Skills](#skills--practical-capabilities) · [Courses](#our-udemy-courses) · [Experience](#experience) · [Education](#education--training) · [Credentials](#credentials)
+[Projects](#featured-engineering-work) · [Demo gallery](docs/demo-gallery.md) · [Tech stack](#-tech-stack) · [Courses](#our-udemy-courses) · [Background](#background) · [Credentials](#credentials)
 
 </div>
 
 ---
 
-I build software, investigate system behavior and document what the evidence supports. My experience comes from **study, hands-on labs and collaborative projects** across Python, Linux, security, cloud and DevOps.
+Python, Linux and defensive security projects, built through study, hands-on labs and collaboration.
 
-At **[HR-Presents](https://github.com/HR-Presents)**, I work with **[Ruveeha Ashfaq](https://github.com/ruveeha33), Co-Founder & CEO**, on software products and technical education. We share product ownership and credit throughout planning, development, testing, documentation and releases.
+<img src="./section-divider.svg" width="100%" alt="" />
 
 ## Featured engineering work
 
-| Project | What to explore | Evidence |
-| :--- | :--- | :--- |
-| **[Sentrix V1](docs/case-studies/sentrix.md)** | Python security, quality, complexity and formatting analysis with Bandit, Pylint, Radon and Black | [Public product showcase](docs/case-studies/sentrix.md) |
-| **[AegisLog](https://github.com/HR-Presents/AegisLog)** | Read-only defensive log investigation and local HTML reports | [Case study](docs/case-studies/aegislog.md) · [Demo fixture](https://github.com/HR-Presents/AegisLog/tree/main/docs/demo) |
-| **[AquaVigil](https://github.com/HaziqBinAfzal/AquaVigil)** | Educational water/process and OT evidence analysis with Prometheus/Grafana observability | [Case study](docs/case-studies/aquavigil.md) · [Walkthrough](https://github.com/HaziqBinAfzal/AquaVigil/blob/main/docs/DEMONSTRATION_GUIDE.md) |
-| **[AI Log Analyzer](https://github.com/HaziqBinAfzal/AI-Log-Analyzer)** | Linux log review through a Flask dashboard; my role is frontend UI and API integration | [Contributor responsibilities](docs/professional-background.md#additional-github-work) |
-| **[Linux Backup & Recovery](https://github.com/HaziqBinAfzal/linux-backup-recovery-system)** | rsync, tar, GPG, SHA256, SSH, cron and restoration workflow | [Workflow and full group credits](docs/professional-background.md#enterprise-linux-backup--recovery-system) |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="docs/case-studies/sentrix.md"><img src="./card-sentrix.svg" width="100%" alt="Sentrix V1 — Python security & code quality" /></a><p>Python security, quality, complexity and formatting analysis with Bandit, Pylint, Radon and Black</p><p><a href="docs/case-studies/sentrix.md">Public product showcase</a></p></td>
+<td width="50%" valign="top"><a href="https://github.com/HR-Presents/AegisLog"><img src="./card-aegislog.svg" width="100%" alt="AegisLog — Defensive log investigation" /></a><p>Read-only defensive log investigation and local HTML reports</p><p><a href="docs/case-studies/aegislog.md">Case study</a> · <a href="https://github.com/HR-Presents/AegisLog/tree/main/docs/demo">Demo fixture</a></p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/HaziqBinAfzal/AquaVigil"><img src="./card-aquavigil.svg" width="100%" alt="AquaVigil — Water, process & OT evidence review" /></a><p>Educational water/process and OT evidence analysis with Prometheus/Grafana observability</p><p><a href="docs/case-studies/aquavigil.md">Case study</a> · <a href="https://github.com/HaziqBinAfzal/AquaVigil/blob/main/docs/DEMONSTRATION_GUIDE.md">Walkthrough</a></p></td>
+<td width="50%" valign="top"><a href="https://github.com/HaziqBinAfzal/AI-Log-Analyzer"><img src="./card-ai-log.svg" width="100%" alt="AI Log Analyzer — Collaborative log-analysis dashboard" /></a><p>Linux log review through a Flask dashboard; my role is frontend UI and API integration</p><p><a href="docs/professional-background.md#additional-github-work">Contributor responsibilities</a></p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/HaziqBinAfzal/linux-backup-recovery-system"><img src="./card-linux-backup.svg" width="100%" alt="Linux Backup & Recovery — Documented backup & restoration" /></a><p>rsync, tar, GPG, SHA256, SSH, cron and restoration workflow</p><p><a href="docs/professional-background.md#enterprise-linux-backup--recovery-system">Workflow and full group credits</a></p></td>
+<td width="50%" valign="top"><a href="https://github.com/HaziqBinAfzal/jira-python-automation-bot"><img src="./card-jira.svg" width="100%" alt="Jira Python Automation — Issue creation & workflow tasks" /></a><p>Joint Python REST API project for Jira issue creation and workflow tasks</p><p><a href="https://github.com/HaziqBinAfzal/jira-python-automation-bot">Repository</a></p></td>
+</tr>
+</table>
 
 **[Open the demo gallery →](docs/demo-gallery.md)** Original lab screenshots, guided demonstrations and implementation evidence.
+
+[![AegisLog Linux source run — 689 tests passed, 24 October 2026](https://img.shields.io/badge/AegisLog_Linux_source_run-689_tests_passed_%C2%B7_24_Oct_2026-22C55E?style=for-the-badge)](docs/verification/2026-10-24/README.md)
+
+[![AquaVigil Linux source run — 14 tests passed and 361 warnings, 24 October 2026](https://img.shields.io/badge/AquaVigil_Linux_source_run-14_passed_%C2%B7_361_warnings_%C2%B7_24_Oct_2026-22C55E?style=for-the-badge)](docs/verification/2026-10-24/README.md)
 
 ### Evidence at a glance
 
@@ -55,68 +60,63 @@ At **[HR-Presents](https://github.com/HR-Presents)**, I work with **[Ruveeha Ash
 **More work:** [SFVDS](https://github.com/HaziqBinAfzal/sfvds) · [Jira Python Automation](https://github.com/HaziqBinAfzal/jira-python-automation-bot) · [Smart Mount Manager](https://github.com/HaziqBinAfzal/Smart_Mount_Manager)  
 **Learning forks:** [AWS](https://github.com/HaziqBinAfzal/aws-devops-zero-to-hero) · [Terraform](https://github.com/HaziqBinAfzal/terraform-zero-to-hero)
 
+<img src="./section-divider.svg" width="100%" alt="" />
+
 ## 💻 Tech Stack
 
 **Programming & automation**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-16A34A?style=for-the-badge&logo=gnubash&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-0891B2?style=for-the-badge&logo=flask&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-8B5CF6?style=for-the-badge&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-DB2777?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4C3275?style=for-the-badge&logo=python&logoColor=E9D5FF)
+![Bash](https://img.shields.io/badge/Bash-654493?style=for-the-badge&logo=gnubash&logoColor=E9D5FF)
+![Flask](https://img.shields.io/badge/Flask-593D88?style=for-the-badge&logo=flask&logoColor=E9D5FF)
+![Automation](https://img.shields.io/badge/Automation-7650A0?style=for-the-badge&logoColor=E9D5FF&logo=python)
+![REST APIs](https://img.shields.io/badge/REST_APIs-4C3275?style=for-the-badge&logoColor=E9D5FF)
+![Git](https://img.shields.io/badge/Git-654493?style=for-the-badge&logo=git&logoColor=E9D5FF)
+![Jira](https://img.shields.io/badge/Jira-593D88?style=for-the-badge&logo=jira&logoColor=E9D5FF)
 
 **Linux & cloud**
 
-![Linux](https://img.shields.io/badge/Linux-D97706?style=for-the-badge&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
-![Red Hat Linux](https://img.shields.io/badge/Red_Hat_Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-932279?style=for-the-badge&logo=centos&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-F59E0B?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-0D9488?style=for-the-badge&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-475569?style=for-the-badge&logoColor=white)
-![rsync](https://img.shields.io/badge/rsync-65A30D?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-7650A0?style=for-the-badge&logo=linux&logoColor=E9D5FF)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-4C3275?style=for-the-badge&logo=ubuntu&logoColor=E9D5FF)
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-654493?style=for-the-badge&logo=rockylinux&logoColor=E9D5FF)
+![Red Hat Linux](https://img.shields.io/badge/Red_Hat_Linux-593D88?style=for-the-badge&logo=redhat&logoColor=E9D5FF)
+![CentOS](https://img.shields.io/badge/CentOS-7650A0?style=for-the-badge&logo=centos&logoColor=E9D5FF)
+![AWS](https://img.shields.io/badge/AWS-4C3275?style=for-the-badge&logo=amazonwebservices&logoColor=E9D5FF)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-654493?style=for-the-badge&logoColor=E9D5FF)
+![SSH](https://img.shields.io/badge/SSH-593D88?style=for-the-badge&logoColor=E9D5FF)
+![rsync](https://img.shields.io/badge/rsync-7650A0?style=for-the-badge&logoColor=E9D5FF)
 
 **DevOps & observability**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-1D4ED8?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-9333EA?style=for-the-badge&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-4C3275?style=for-the-badge&logo=docker&logoColor=E9D5FF)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-654493?style=for-the-badge&logo=docker&logoColor=E9D5FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-593D88?style=for-the-badge&logo=githubactions&logoColor=E9D5FF)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-7650A0?style=for-the-badge&logo=githubactions&logoColor=E9D5FF)
+![DevOps](https://img.shields.io/badge/DevOps-4C3275?style=for-the-badge&logoColor=E9D5FF)
+![Prometheus](https://img.shields.io/badge/Prometheus-654493?style=for-the-badge&logo=prometheus&logoColor=E9D5FF)
+![Grafana](https://img.shields.io/badge/Grafana-593D88?style=for-the-badge&logo=grafana&logoColor=E9D5FF)
 
 **Security & investigation**
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-2563EB?style=for-the-badge&logoColor=white)
-![SHA256](https://img.shields.io/badge/SHA256-059669?style=for-the-badge&logoColor=white)
-![GPG](https://img.shields.io/badge/GPG-7F3FBF?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
-![Backup & Recovery](https://img.shields.io/badge/Backup_%26_Recovery-0284C7?style=for-the-badge&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-7650A0?style=for-the-badge&logoColor=E9D5FF)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-4C3275?style=for-the-badge&logoColor=E9D5FF)
+![SHA256](https://img.shields.io/badge/SHA256-654493?style=for-the-badge&logoColor=E9D5FF)
+![GPG](https://img.shields.io/badge/GPG-593D88?style=for-the-badge&logo=gnuprivacyguard&logoColor=E9D5FF)
+![Backup & Recovery](https://img.shields.io/badge/Backup_%26_Recovery-7650A0?style=for-the-badge&logoColor=E9D5FF)
 
 **AI & ongoing studies**
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=for-the-badge&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-D946EF?style=for-the-badge&logoColor=white)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-06B6D4?style=for-the-badge&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-4C3275?style=for-the-badge&logoColor=E9D5FF)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-654493?style=for-the-badge&logoColor=E9D5FF&logo=scikitlearn)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-593D88?style=for-the-badge&logoColor=E9D5FF)
 
-## Skills & practical capabilities
+Tools used across my projects and labs, alongside topics I’m studying. [Skills and learning context](docs/professional-background.md#technical-skills-listed-on-linkedin).
 
-| Area | Skills |
-| :--- | :--- |
-| **Security** | Cybersecurity · Cloud Security |
-| **Linux systems** | Linux · Red Hat Linux · CentOS |
-| **Programming & tooling** | Python · Bash · Git · Jira |
-| **DevOps & delivery** | DevOps · Docker · Continuous Integration and Continuous Delivery (CI/CD) |
-| **Observability** | Prometheus · Grafana |
-| **AI & analysis** | Artificial Intelligence · Machine Learning · Anomaly Detection |
-
-The projects above connect these skills to inspectable work. AI topics also form part of my ongoing studies. [Full skills and learning context](docs/professional-background.md#technical-skills-listed-on-linkedin).
+<img src="./section-divider.svg" width="100%" alt="" />
 
 ## Collaboration & teaching
+
+<img src="./founders-panel.svg" width="100%" alt="HR-Presents founders: Haziq Afzal — Co-Founder &amp; CTO; Ruveeha Ashfaq — Co-Founder &amp; CEO" />
 
 **Ruveeha Ashfaq — Co-Founder & CEO, HR-Presents · Udemy Instructor**  
 [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/)
@@ -125,12 +125,38 @@ The projects above connect these skills to inspectable work. AI topics also form
 
 Co-created and presented by **Haziq Afzal and Ruveeha Ashfaq** under HR-Presents.
 
-| Course | Focus |
-| :--- | :--- |
-| **[Docker Pro Skills: Build, Secure & Deploy Applications](https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/)** | Dockerfiles, Compose, networking, security, troubleshooting, CI/CD and an e-commerce capstone; introductory Kubernetes |
-| **[Think Before You Click: The Online Safety Course](https://www.udemy.com/course/think-before-you-click-the-online-safety-course/)** | Scams, phishing, account protection, privacy and safer everyday digital decisions |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><img src="./card-course-docker.svg" width="100%" alt="Docker Pro Skills: Build, Secure &amp; Deploy Applications" /></a><p>Dockerfiles, Compose, networking, security, troubleshooting, CI/CD and an e-commerce capstone; introductory Kubernetes</p></td>
+<td width="50%" valign="top"><a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><img src="./card-course-safety.svg" width="100%" alt="Think Before You Click: The Online Safety Course" /></a><p>Scams, phishing, account protection, privacy and safer everyday digital decisions</p></td>
+</tr>
+</table>
 
 Our shared work includes curriculum, demonstrations, recording, quizzes, presentations and downloadable practice resources.
+
+<img src="./section-divider.svg" width="100%" alt="" />
+
+## GitHub activity & languages
+
+<a href="./contribution-data.json"><img src="./contribution-activity.svg" width="100%" alt="GitHub contribution activity snapshot, January through 24 October 2026; October is partial" /></a>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HaziqBinAfzal&amp;show_icons=true&amp;hide_border=true&amp;bg_color=131426&amp;title_color=C084FC&amp;icon_color=22D3EE&amp;text_color=C7C2D8&amp;rank_icon=github" width="49%" alt="Haziq's public GitHub activity statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaziqBinAfzal&amp;layout=compact&amp;hide_border=true&amp;bg_color=131426&amp;title_color=C084FC&amp;text_color=C7C2D8&amp;langs_count=6" width="49%" alt="Language distribution in Haziq's public repositories" />
+</p>
+
+<sub>Contribution chart: dated snapshot of GitHub’s displayed calendar, with October partial; click for the source counts. Statistics and language cards use external services. Language distribution can include documentation and learning repositories and does not measure proficiency. See GitHub’s contribution calendar below for current activity.</sub>
+
+<img src="./section-divider.svg" width="100%" alt="" />
+
+## Background
+
+<details>
+<summary><strong>Experience, education &amp; professional introduction</strong></summary>
+
+I build software, investigate system behavior and document what the evidence supports. My experience comes from **study, hands-on labs and collaborative projects** across Python, Linux, security, cloud and DevOps.
+
+At **[HR-Presents](https://github.com/HR-Presents)**, I work with **[Ruveeha Ashfaq](https://github.com/ruveeha33), Co-Founder & CEO**, on software products and technical education. We share product ownership and credit throughout planning, development, testing, documentation and releases.
 
 ## Experience
 
@@ -147,7 +173,27 @@ Our shared work includes curriculum, demonstrations, recording, quizzes, present
 | **AIOPS Level 6 — Artificial Intelligence** | Al Nafi International College | In progress · Aug 2025–Feb 2027 expected |
 | **Diploma in Cloud Cyber Security (RQF 3)** | Al Nafi International College · EduQual Level 3 | Completed · Jun–Aug 2024 · Grade B |
 
+## Skills & practical capabilities
+
+| Area | Skills |
+| :--- | :--- |
+| **Security** | Cybersecurity · Cloud Security |
+| **Linux systems** | Linux · Red Hat Linux · CentOS |
+| **Programming & tooling** | Python · Bash · Git · Jira |
+| **DevOps & delivery** | DevOps · Docker · Continuous Integration and Continuous Delivery (CI/CD) |
+| **Observability** | Prometheus · Grafana |
+| **AI & analysis** | Artificial Intelligence · Machine Learning · Anomaly Detection |
+
+The projects above connect these skills to inspectable work. AI topics also form part of my ongoing studies. [Full skills and learning context](docs/professional-background.md#technical-skills-listed-on-linkedin).
+
+</details>
+
+<img src="./section-divider.svg" width="100%" alt="" />
+
 ## Credentials
+
+<details>
+<summary><strong>View credentials, training badge &amp; languages</strong></summary>
 
 | Credential | Issuer | Issued | Verify |
 | :--- | :--- | :--- | :--- |
@@ -155,21 +201,18 @@ Our shared work includes curriculum, demonstrations, recording, quizzes, present
 
 **Languages:** English — professional working proficiency · Urdu — native or bilingual proficiency.
 
+</details>
+
 ## Background & contact
 
 I welcome opportunities to contribute, gain professional experience and build useful technology with others.
 
 [Full professional background](docs/professional-background.md) · [Project credits](docs/professional-background.md#project-contributions-and-credits) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/) · [HR-Presents](https://www.linkedin.com/company/hr-presents/)
 
-<details>
-<summary><strong>GitHub activity</strong></summary>
 
-![GitHub contribution activity](https://github-readme-stats.vercel.app/api?username=HaziqBinAfzal&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github)
-
-Activity cards depend on an external service. GitHub's contribution graph remains the authoritative activity record.
-
-</details>
 
 ---
 
-<div align="center"><sub>Secure by design. Clear in execution. Built to be useful.</sub></div>
+<img src="./profile-footer.svg" width="100%" alt="Secure by design. Clear in execution. Built to be useful." />
+
+<p align="center"><a href="#featured-engineering-work">Explore projects</a> · <a href="https://www.linkedin.com/in/haziq-afzal/">Connect on LinkedIn</a> · <a href="#our-udemy-courses">View courses</a></p>
