@@ -43,7 +43,7 @@ My work emphasizes reproducible testing, defensive security, automation, clear d
 ### 01 / Flagship software
 
 <a href="docs/case-studies/sentrix.md">
-  <img src="./assets/card-sentrix.svg" width="100%" alt="Sentrix V1 — Python Code Security and Quality Analyzer" />
+  <img src="./card-sentrix.svg" width="100%" alt="Sentrix V1 — Python Code Security and Quality Analyzer" />
 </a>
 
 **Sentrix V1 — Python Code Security & Quality Analyzer**
@@ -57,7 +57,7 @@ A collaborative HR-Presents product combining **Bandit, Pylint, Radon and Black*
 ### 02 / Defensive security engineering
 
 <a href="https://github.com/HR-Presents/AegisLog">
-  <img src="./assets/card-aegislog.svg" width="100%" alt="AegisLog — Defensive Log Investigation" />
+  <img src="./card-aegislog.svg" width="100%" alt="AegisLog — Defensive Log Investigation" />
 </a>
 
 **AegisLog — Defensive Log Investigation**
@@ -73,13 +73,13 @@ Read-only investigation of security logs, with evidence review and local HTML re
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/HaziqBinAfzal/AquaVigil"><img src="./assets/card-aquavigil.svg" width="100%" alt="AquaVigil" /></a>
+<a href="https://github.com/HaziqBinAfzal/AquaVigil"><img src="./card-aquavigil.svg" width="100%" alt="AquaVigil" /></a>
 <p><strong>AquaVigil</strong></p>
 <p>Educational water/process and OT evidence analysis with Prometheus and Grafana observability.</p>
 <a href="docs/case-studies/aquavigil.md">Case study</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/HaziqBinAfzal/AI-Log-Analyzer"><img src="./assets/card-ai-log.svg" width="100%" alt="AI Log Analyzer" /></a>
+<a href="https://github.com/HaziqBinAfzal/AI-Log-Analyzer"><img src="./card-ai-log.svg" width="100%" alt="AI Log Analyzer" /></a>
 <p><strong>AI Log Analyzer</strong></p>
 <p>Collaborative Flask log-analysis dashboard. Haziq contributed frontend UI and API integration.</p>
 <a href="docs/professional-background.md#additional-github-work">Contributor responsibilities</a>
@@ -87,13 +87,13 @@ Read-only investigation of security logs, with evidence review and local HTML re
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/HaziqBinAfzal/linux-backup-recovery-system"><img src="./assets/card-linux-backup.svg" width="100%" alt="Linux Backup and Recovery" /></a>
+<a href="https://github.com/HaziqBinAfzal/linux-backup-recovery-system"><img src="./card-linux-backup.svg" width="100%" alt="Linux Backup and Recovery" /></a>
 <p><strong>Linux Backup & Recovery</strong></p>
 <p>Documented backup and restoration using rsync, tar, GPG, SHA256, SSH and cron.</p>
 <a href="docs/professional-background.md#enterprise-linux-backup--recovery-system">Workflow and team credits</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/HaziqBinAfzal/jira-python-automation-bot"><img src="./assets/card-jira.svg" width="100%" alt="Jira Python Automation" /></a>
+<a href="https://github.com/HaziqBinAfzal/jira-python-automation-bot"><img src="./card-jira.svg" width="100%" alt="Jira Python Automation" /></a>
 <p><strong>Jira Python Automation</strong></p>
 <p>Collaborative Python REST API project for issue creation and workflow automation.</p>
 <a href="https://github.com/HaziqBinAfzal/jira-python-automation-bot">Repository</a>
