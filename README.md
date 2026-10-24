@@ -6,7 +6,9 @@
 
 **Co-Founder & CTO, HR-Presents** · **Udemy Instructor** · **AIOPS Level 6 Student**
 
-Building inspectable software, defensive security tools, and reproducible infrastructure workflows.
+**Building secure software. Automating infrastructure. Making engineering decisions traceable.**
+
+Python applications · Defensive security · Linux systems · DevOps & observability
 
 Abu Dhabi, UAE
 
@@ -14,7 +16,7 @@ Abu Dhabi, UAE
 [![HR-Presents](https://img.shields.io/badge/HR--Presents-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HR-Presents)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaziqBinAfzal)
 
-[Selected Work](#selected-engineering-work) · [Engineering Evidence](#engineering-evidence) · [Technical Toolkit](#technical-toolkit) · [Courses](#our-udemy-courses) · [Background](#background) · [Credentials](#credentials)
+[Projects](#selected-engineering-work) · [Evidence](#engineering-evidence) · [Toolbox](#technical-toolkit) · [Collaboration & Courses](#building-together--teaching) · [Background](#background)
 
 </div>
 
@@ -22,7 +24,9 @@ Abu Dhabi, UAE
 
 ## Engineering focus
 
-I develop practical software and infrastructure projects across **Python, cybersecurity, Linux, cloud and DevOps**. I focus on reproducible testing, evidence-backed security investigations, automation and clear documentation.
+I build and document practical systems across **Python, cybersecurity, Linux, cloud and DevOps**. My focus is on how software behaves, how infrastructure can be recovered, and how claims can be checked against reproducible evidence.
+
+**My approach:** Build a working system → test it → investigate failures → retain the evidence → explain the limits.
 
 | Build | Investigate | Operate |
 | :--- | :--- | :--- |
@@ -40,14 +44,16 @@ I develop practical software and infrastructure projects across **Python, cybers
 <h3>Sentrix V1</h3>
 <p><strong>Python code security & quality analyzer</strong></p>
 <p>A collaborative HR-Presents product combining Bandit, Pylint, Radon and Black for security, quality, complexity and formatting analysis.</p>
-<p><a href="docs/case-studies/sentrix.md"><strong>Product case study →</strong></a></p>
+<p><strong>Engineering focus:</strong> bringing security and quality checks into one reviewable Python analysis workflow.</p>
+<p><a href="docs/case-studies/sentrix.md"><strong>Product case study →</strong></a> · <a href="https://github.com/HR-Presents/HR-Presents-Sentrix">Repository</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/HR-Presents/AegisLog"><img src="./card-aegislog.svg" width="100%" alt="AegisLog — defensive log investigation" /></a>
 <h3>AegisLog</h3>
 <p><strong>Defensive log investigation</strong></p>
 <p>Read-only security log investigation with evidence review and local HTML reporting, supported by reproducible synthetic verification.</p>
-<p><a href="docs/case-studies/aegislog.md"><strong>Engineering case study →</strong></a> · <a href="https://github.com/HR-Presents/AegisLog">Repository</a> · <a href="https://github.com/HR-Presents/AegisLog/tree/main/docs/demo">Demo</a></p>
+<p><strong>Verified Linux source run:</strong> 689 tests passed; 9 recognized synthetic records, 2 findings and 1 incident (24 Oct 2026).</p>
+<p><a href="docs/case-studies/aegislog.md"><strong>Engineering case study →</strong></a> · <a href="https://github.com/HR-Presents/AegisLog">Repository</a> · <a href="docs/verification/2026-10-24/README.md">Test evidence</a></p>
 </td>
 </tr>
 </table>
@@ -60,6 +66,7 @@ I develop practical software and infrastructure projects across **Python, cybers
 <a href="https://github.com/HaziqBinAfzal/AquaVigil"><img src="./card-aquavigil.svg" width="100%" alt="AquaVigil" /></a>
 <p><strong>AquaVigil</strong></p>
 <p>Educational water/process and OT evidence analysis with Prometheus and Grafana observability.</p>
+<p><strong>Verified Linux source run:</strong> 14 tests passed, 361 warnings (24 Oct 2026).</p>
 <a href="docs/case-studies/aquavigil.md">Case study →</a>
 </td>
 <td width="50%" valign="top">
@@ -87,7 +94,7 @@ I develop practical software and infrastructure projects across **Python, cybers
 
 ## Engineering evidence
 
-Real project work should be supported by records, not just claims.
+**Evidence over assertions.** The dated records below show what was actually tested. They do not imply production deployment or detection accuracy.
 
 | Source | Retained evidence · 24 October 2026 |
 | :--- | :--- |
@@ -106,7 +113,9 @@ Real project work should be supported by records, not just claims.
 
 ## Technical toolkit
 
-**Core tools and practices:** Python · Bash · Linux · Git · Docker · GitHub Actions · Defensive security · Prometheus · Grafana
+**Project-facing stack:** Python · Flask · Bash · Linux · Git · Docker · GitHub Actions · Prometheus · Grafana
+
+**Practices:** Defensive investigation · CI/CD · Reproducible tests · Evidence review · Backup and recovery
 
 <details>
 <summary><strong>Explore tools, platforms and ongoing studies</strong></summary>
@@ -186,6 +195,8 @@ Our shared work includes curriculum, demonstrations, recording, quizzes, present
 
 ## Development activity
 
+*Activity snapshots provide context, not a measure of engineering quality.*
+
 <a href="./contribution-data.json"><img src="./contribution-activity.svg" width="100%" alt="GitHub contribution activity snapshot, January through 24 October 2026; October is partial" /></a>
 
 <p align="center">
@@ -251,7 +262,7 @@ The projects above connect these skills to inspectable work. AI topics also form
 
 ## Contact & opportunities
 
-I welcome opportunities to contribute, gain professional experience and build useful technology with others.
+I am open to opportunities in **Python engineering, Linux administration, security tooling and DevOps**, particularly work that values clear documentation, reproducible testing and collaborative delivery.
 
 [Full professional background](docs/professional-background.md) · [Project credits](docs/professional-background.md#project-contributions-and-credits) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/) · [HR-Presents](https://www.linkedin.com/company/hr-presents/)
 
