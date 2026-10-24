@@ -7,7 +7,7 @@
 <g transform="translate(461 37) scale(.85)" fill="none" stroke="#818CF8" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M9 9v47h48M18 40l11-14 10 8 15-18"/><circle cx="29" cy="26" r="3"/><circle cx="39" cy="34" r="3"/></g>
 <text x="28" y="35" fill="#818CF8" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" letter-spacing="2" font-weight="700">04 / FEATURED PROJECT</text>
 <text x="28" y="86" fill="#F8F5FF" font-family="DejaVu Sans,Arial,sans-serif" font-size="27" font-weight="700">AI Log Analyzer</text>
-<text x="28" y="119" fill="#C7C2D8" font-family="DejaVu Sans,Arial,sans-serif" font-size="15">Collaborative log-analysis dashboard</text>
+<text x="28" y="119" fill="#CBD5E1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15">Collaborative log-analysis dashboard</text>
 <line x1="28" y1="145" x2="532" y2="145" stroke="#34304A"/>
 <text x="28" y="174" fill="#818CF8" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="600">Frontend · APIs · Flask</text>
 <text x="28" y="204" fill="#ABA4C0" font-family="DejaVu Sans,Arial,sans-serif" font-size="10" letter-spacing="1.4">HR-PRESENTS · COLLABORATIVE ENGINEERING</text>

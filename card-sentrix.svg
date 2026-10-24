@@ -7,7 +7,7 @@
 <g transform="translate(461 37) scale(.85)" fill="none" stroke="#F472B6" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m23 18-16 16 16 16m18-32 16 16-16 16M36 10 28 58"/></g>
 <text x="28" y="35" fill="#F472B6" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" letter-spacing="2" font-weight="700">01 / FEATURED PROJECT</text>
 <text x="28" y="86" fill="#F8F5FF" font-family="DejaVu Sans,Arial,sans-serif" font-size="27" font-weight="700">Sentrix V1</text>
-<text x="28" y="119" fill="#C7C2D8" font-family="DejaVu Sans,Arial,sans-serif" font-size="15">Python security &amp; code quality</text>
+<text x="28" y="119" fill="#CBD5E1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15">Python security &amp; code quality</text>
 <line x1="28" y1="145" x2="532" y2="145" stroke="#34304A"/>
 <text x="28" y="174" fill="#F472B6" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="600">Bandit · Pylint · Radon · Black</text>
 <text x="28" y="204" fill="#ABA4C0" font-family="DejaVu Sans,Arial,sans-serif" font-size="10" letter-spacing="1.4">HR-PRESENTS · COLLABORATIVE ENGINEERING</text>
