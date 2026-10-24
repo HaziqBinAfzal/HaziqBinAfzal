@@ -4,71 +4,55 @@
 
 # Haziq Afzal
 
-![Co-Founder & CTO](https://img.shields.io/badge/Co--Founder_%26_CTO-2563EB?style=for-the-badge&logoColor=white)
-![Udemy Instructor](https://img.shields.io/badge/Udemy_Instructor-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-![HR-Presents](https://img.shields.io/badge/HR--Presents-0891B2?style=for-the-badge&logoColor=white)
+**Co-Founder & CTO, HR-Presents** · **Udemy Instructor** · **AIOPS Level 6 Student**
 
-Abu Dhabi, UAE · AIOPS Level 6 student
+Building inspectable software, defensive security tools, and reproducible infrastructure workflows.
+
+Abu Dhabi, UAE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-afzal/)
-[![HR-Presents](https://img.shields.io/badge/HR--Presents-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HR-Presents)
+[![HR-Presents](https://img.shields.io/badge/HR--Presents-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HR-Presents)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaziqBinAfzal)
 
-[Engineering Focus](#engineering-focus) · [Projects](#featured-engineering-work) · [Evidence](#evidence-at-a-glance) · [Technical Toolkit](#technical-toolkit) · [Courses](#our-udemy-courses) · [Background](#background) · [Credentials](#credentials)
+[Selected Work](#selected-engineering-work) · [Engineering Evidence](#engineering-evidence) · [Technical Toolkit](#technical-toolkit) · [Courses](#our-udemy-courses) · [Background](#background) · [Credentials](#credentials)
 
 </div>
-
----
-
-Python, Linux and defensive security projects, built through study, hands-on labs and collaboration.
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
 ## Engineering focus
 
-I build practical software and infrastructure projects across **Python, cybersecurity, Linux, cloud and DevOps**.
+I develop practical software and infrastructure projects across **Python, cybersecurity, Linux, cloud and DevOps**. I focus on reproducible testing, evidence-backed security investigations, automation and clear documentation.
 
-My work emphasizes reproducible testing, defensive security, automation, clear documentation and evidence-backed engineering.
-
-| Software Engineering | Security & Infrastructure | Delivery & Observability |
+| Build | Investigate | Operate |
 | :--- | :--- | :--- |
-| Python · Flask · REST APIs | Linux · SSH · Defensive Security | Docker · GitHub Actions |
-| Automation · Code Quality | Log Analysis · Backup & Recovery | CI/CD · Prometheus · Grafana |
+| Python · Flask · REST APIs | Log analysis · Defensive security | Linux · SSH · Docker |
+| Automation · Code quality | Evidence review · Recovery | CI/CD · Prometheus · Grafana |
 
-[Explore my projects](#featured-engineering-work) · [View engineering evidence](#evidence-at-a-glance) · [Connect on LinkedIn](https://www.linkedin.com/in/haziq-afzal/)
+## Selected engineering work
 
----
-## Featured engineering work
+### Flagship / Software and defensive security
 
-### 01 / Flagship software
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="docs/case-studies/sentrix.md"><img src="./card-sentrix.svg" width="100%" alt="Sentrix V1 — Python code security and quality analyzer" /></a>
+<h3>Sentrix V1</h3>
+<p><strong>Python code security & quality analyzer</strong></p>
+<p>A collaborative HR-Presents product combining Bandit, Pylint, Radon and Black for security, quality, complexity and formatting analysis.</p>
+<p><a href="docs/case-studies/sentrix.md"><strong>Product case study →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/HR-Presents/AegisLog"><img src="./card-aegislog.svg" width="100%" alt="AegisLog — defensive log investigation" /></a>
+<h3>AegisLog</h3>
+<p><strong>Defensive log investigation</strong></p>
+<p>Read-only security log investigation with evidence review and local HTML reporting, supported by reproducible synthetic verification.</p>
+<p><a href="docs/case-studies/aegislog.md"><strong>Engineering case study →</strong></a> · <a href="https://github.com/HR-Presents/AegisLog">Repository</a> · <a href="https://github.com/HR-Presents/AegisLog/tree/main/docs/demo">Demo</a></p>
+</td>
+</tr>
+</table>
 
-<a href="docs/case-studies/sentrix.md">
-  <img src="./card-sentrix.svg" width="100%" alt="Sentrix V1 — Python Code Security and Quality Analyzer" />
-</a>
-
-**Sentrix V1 — Python Code Security & Quality Analyzer**
-
-A collaborative HR-Presents product combining **Bandit, Pylint, Radon and Black** for Python security, code quality, complexity and formatting analysis.
-
-[Explore the product](docs/case-studies/sentrix.md)
-
----
-
-### 02 / Defensive security engineering
-
-<a href="https://github.com/HR-Presents/AegisLog">
-  <img src="./card-aegislog.svg" width="100%" alt="AegisLog — Defensive Log Investigation" />
-</a>
-
-**AegisLog — Defensive Log Investigation**
-
-Read-only investigation of security logs, with evidence review and local HTML reporting.
-
-[View repository](https://github.com/HR-Presents/AegisLog) · [Read case study](docs/case-studies/aegislog.md) · [Explore demo](https://github.com/HR-Presents/AegisLog/tree/main/docs/demo)
-
----
-
-### 03 / Infrastructure, automation & applied security
+### Infrastructure / Automation / Applied security
 
 <table>
 <tr>
@@ -76,13 +60,13 @@ Read-only investigation of security logs, with evidence review and local HTML re
 <a href="https://github.com/HaziqBinAfzal/AquaVigil"><img src="./card-aquavigil.svg" width="100%" alt="AquaVigil" /></a>
 <p><strong>AquaVigil</strong></p>
 <p>Educational water/process and OT evidence analysis with Prometheus and Grafana observability.</p>
-<a href="docs/case-studies/aquavigil.md">Case study</a>
+<a href="docs/case-studies/aquavigil.md">Case study →</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/HaziqBinAfzal/AI-Log-Analyzer"><img src="./card-ai-log.svg" width="100%" alt="AI Log Analyzer" /></a>
 <p><strong>AI Log Analyzer</strong></p>
-<p>Collaborative Flask log-analysis dashboard. Haziq contributed frontend UI and API integration.</p>
-<a href="docs/professional-background.md#additional-github-work">Contributor responsibilities</a>
+<p>Collaborative Flask log-analysis dashboard; Haziq contributed frontend UI and API integration.</p>
+<a href="docs/professional-background.md#additional-github-work">Contribution details →</a>
 </td>
 </tr>
 <tr>
@@ -90,32 +74,30 @@ Read-only investigation of security logs, with evidence review and local HTML re
 <a href="https://github.com/HaziqBinAfzal/linux-backup-recovery-system"><img src="./card-linux-backup.svg" width="100%" alt="Linux Backup and Recovery" /></a>
 <p><strong>Linux Backup & Recovery</strong></p>
 <p>Documented backup and restoration using rsync, tar, GPG, SHA256, SSH and cron.</p>
-<a href="docs/professional-background.md#enterprise-linux-backup--recovery-system">Workflow and team credits</a>
+<a href="docs/professional-background.md#enterprise-linux-backup--recovery-system">Workflow and team credits →</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/HaziqBinAfzal/jira-python-automation-bot"><img src="./card-jira.svg" width="100%" alt="Jira Python Automation" /></a>
 <p><strong>Jira Python Automation</strong></p>
 <p>Collaborative Python REST API project for issue creation and workflow automation.</p>
-<a href="https://github.com/HaziqBinAfzal/jira-python-automation-bot">Repository</a>
+<a href="https://github.com/HaziqBinAfzal/jira-python-automation-bot">Repository →</a>
 </td>
 </tr>
 </table>
 
-**[Open the demo gallery →](docs/demo-gallery.md)** Original lab screenshots, guided demonstrations and implementation evidence.
+## Engineering evidence
 
-[![AegisLog Linux source run — 689 tests passed, 24 October 2026](https://img.shields.io/badge/AegisLog_Linux_source_run-689_tests_passed_%C2%B7_24_Oct_2026-22C55E?style=for-the-badge)](docs/verification/2026-10-24/README.md)
+Real project work should be supported by records, not just claims.
 
-[![AquaVigil Linux source run — 14 tests passed and 361 warnings, 24 October 2026](https://img.shields.io/badge/AquaVigil_Linux_source_run-14_passed_%C2%B7_361_warnings_%C2%B7_24_Oct_2026-22C55E?style=for-the-badge)](docs/verification/2026-10-24/README.md)
-
-### Evidence at a glance
-
-| Review | What the retained record shows |
+| Source | Retained evidence · 24 October 2026 |
 | :--- | :--- |
-| **AegisLog synthetic investigation** | [Fresh v2.1.17 source run](docs/verification/2026-10-24/README.md): 9 recognized records, 2 findings, 1 incident; **689 tests passed** |
-| **LinuxOps memory troubleshooting** | Ruveeha's [incident record](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab/blob/main/phases/phase-01/docs/memory-troubleshooting.md) shows approximately 609 MiB before and 3.6 GiB after the change/restart |
-| **AquaVigil scenario** | [Fresh source run](docs/verification/2026-10-24/README.md): 6 synthetic records, Critical status, risk score 100; **14 tests passed** |
+| **AegisLog** | [Linux source verification](docs/verification/2026-10-24/README.md): **689 tests passed**; synthetic investigation with 9 recognized records, 2 findings and 1 incident |
+| **AquaVigil** | [Linux source verification](docs/verification/2026-10-24/README.md): **14 tests passed, 361 warnings**; 6 synthetic records, Critical scenario, risk score 100 |
+| **LinuxOps** | [Ruveeha's memory troubleshooting record](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab/blob/main/phases/phase-01/docs/memory-troubleshooting.md): approximately 609 MiB before and 3.6 GiB after the change/restart |
 
-[Inspect test logs, generated reports and the reproducible streaming benchmark](docs/verification/2026-10-24/README.md). These synthetic Linux runs do not establish production performance, detection accuracy or Windows/Docker acceptance.
+[View demo gallery](docs/demo-gallery.md) · [Inspect test logs, reports and streaming benchmark](docs/verification/2026-10-24/README.md)
+
+<sub>These are dated synthetic Linux source runs, not evidence of production performance, detection accuracy, or Windows/Docker acceptance.</sub>
 
 **More work:** [SFVDS](https://github.com/HaziqBinAfzal/sfvds) · [Jira Python Automation](https://github.com/HaziqBinAfzal/jira-python-automation-bot) · [Smart Mount Manager](https://github.com/HaziqBinAfzal/Smart_Mount_Manager)  
 **Learning forks:** [AWS](https://github.com/HaziqBinAfzal/aws-devops-zero-to-hero) · [Terraform](https://github.com/HaziqBinAfzal/terraform-zero-to-hero)
@@ -124,17 +106,22 @@ Read-only investigation of security logs, with evidence review and local HTML re
 
 ## Technical toolkit
 
-**Programming & automation**
+**Core tools and practices:** Python · Bash · Linux · Git · Docker · GitHub Actions · Defensive security · Prometheus · Grafana
+
+<details>
+<summary><strong>Explore tools, platforms and ongoing studies</strong></summary>
+
+### Programming & automation
 
 ![Python](https://img.shields.io/badge/Python-123B63?style=for-the-badge&logo=python&logoColor=E0F2FE)
 ![Bash](https://img.shields.io/badge/Bash-155E75?style=for-the-badge&logo=gnubash&logoColor=E0F2FE)
 ![Flask](https://img.shields.io/badge/Flask-1D4ED8?style=for-the-badge&logo=flask&logoColor=E0F2FE)
-![Automation](https://img.shields.io/badge/Automation-0E7490?style=for-the-badge&logoColor=E0F2FE&logo=python)
+![Automation](https://img.shields.io/badge/Automation-0E7490?style=for-the-badge&logo=python&logoColor=E0F2FE)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-123B63?style=for-the-badge&logoColor=E0F2FE)
 ![Git](https://img.shields.io/badge/Git-155E75?style=for-the-badge&logo=git&logoColor=E0F2FE)
 ![Jira](https://img.shields.io/badge/Jira-1D4ED8?style=for-the-badge&logo=jira&logoColor=E0F2FE)
 
-**Linux & cloud**
+### Linux & cloud
 
 ![Linux](https://img.shields.io/badge/Linux-0E7490?style=for-the-badge&logo=linux&logoColor=E0F2FE)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-123B63?style=for-the-badge&logo=ubuntu&logoColor=E0F2FE)
@@ -146,7 +133,7 @@ Read-only investigation of security logs, with evidence review and local HTML re
 ![SSH](https://img.shields.io/badge/SSH-1D4ED8?style=for-the-badge&logoColor=E0F2FE)
 ![rsync](https://img.shields.io/badge/rsync-0E7490?style=for-the-badge&logoColor=E0F2FE)
 
-**DevOps & observability**
+### DevOps & observability
 
 ![Docker](https://img.shields.io/badge/Docker-123B63?style=for-the-badge&logo=docker&logoColor=E0F2FE)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-155E75?style=for-the-badge&logo=docker&logoColor=E0F2FE)
@@ -156,7 +143,7 @@ Read-only investigation of security logs, with evidence review and local HTML re
 ![Prometheus](https://img.shields.io/badge/Prometheus-155E75?style=for-the-badge&logo=prometheus&logoColor=E0F2FE)
 ![Grafana](https://img.shields.io/badge/Grafana-1D4ED8?style=for-the-badge&logo=grafana&logoColor=E0F2FE)
 
-**Security & investigation**
+### Security & investigation
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0E7490?style=for-the-badge&logoColor=E0F2FE)
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-123B63?style=for-the-badge&logoColor=E0F2FE)
@@ -164,22 +151,23 @@ Read-only investigation of security logs, with evidence review and local HTML re
 ![GPG](https://img.shields.io/badge/GPG-1D4ED8?style=for-the-badge&logo=gnuprivacyguard&logoColor=E0F2FE)
 ![Backup & Recovery](https://img.shields.io/badge/Backup_%26_Recovery-0E7490?style=for-the-badge&logoColor=E0F2FE)
 
-**AI & ongoing studies**
+### AI & ongoing studies
 
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-123B63?style=for-the-badge&logoColor=E0F2FE)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-155E75?style=for-the-badge&logoColor=E0F2FE&logo=scikitlearn)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-155E75?style=for-the-badge&logo=scikitlearn&logoColor=E0F2FE)
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-1D4ED8?style=for-the-badge&logoColor=E0F2FE)
 
-Tools used across my projects and labs, alongside topics I’m studying. [Skills and learning context](docs/professional-background.md#technical-skills-listed-on-linkedin).
+Tools used in projects and labs, alongside subjects I am studying. [Skills and learning context](docs/professional-background.md#technical-skills-listed-on-linkedin).
+
+</details>
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
 ## Building together & teaching
 
-<img src="./founders-panel.svg" width="100%" alt="HR-Presents founders: Haziq Afzal — Co-Founder &amp; CTO; Ruveeha Ashfaq — Co-Founder &amp; CEO" />
+<img src="./founders-panel.svg" width="100%" alt="HR-Presents founders: Haziq Afzal — Co-Founder and CTO; Ruveeha Ashfaq — Co-Founder and CEO" />
 
-**Ruveeha Ashfaq — Co-Founder & CEO, HR-Presents · Udemy Instructor**  
-[GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/)
+I collaborate with **Ruveeha Ashfaq — Co-Founder & CEO, HR-Presents and Udemy Instructor**. [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/)
 
 ### Our Udemy courses
 
@@ -187,8 +175,8 @@ Co-created and presented by **Haziq Afzal and Ruveeha Ashfaq** under HR-Presents
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><img src="./card-course-docker.svg" width="100%" alt="Docker Pro Skills: Build, Secure &amp; Deploy Applications" /></a><p>Dockerfiles, Compose, networking, security, troubleshooting, CI/CD and an e-commerce capstone; introductory Kubernetes</p></td>
-<td width="50%" valign="top"><a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><img src="./card-course-safety.svg" width="100%" alt="Think Before You Click: The Online Safety Course" /></a><p>Scams, phishing, account protection, privacy and safer everyday digital decisions</p></td>
+<td width="50%" valign="top"><a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><img src="./card-course-docker.svg" width="100%" alt="Docker Pro Skills: Build, Secure &amp; Deploy Applications" /></a><p>Dockerfiles, Compose, networking, security, troubleshooting, CI/CD, an e-commerce capstone and introductory Kubernetes.</p></td>
+<td width="50%" valign="top"><a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><img src="./card-course-safety.svg" width="100%" alt="Think Before You Click: The Online Safety Course" /></a><p>Scams, phishing, account protection, privacy and safer everyday digital decisions.</p></td>
 </tr>
 </table>
 
@@ -205,20 +193,20 @@ Our shared work includes curriculum, demonstrations, recording, quizzes, present
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaziqBinAfzal&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=38BDF8&amp;text_color=CBD5E1&amp;langs_count=6" width="49%" alt="Language distribution in Haziq's public repositories" />
 </p>
 
-<sub>Contribution chart: dated snapshot of GitHub’s displayed calendar, with October partial; click for the source counts. Statistics and language cards use external services. Language distribution can include documentation and learning repositories and does not measure proficiency. See GitHub’s contribution calendar below for current activity.</sub>
+<sub>Contribution chart is a dated snapshot, with October partial. Statistics use external services; language distribution does not measure proficiency.</sub>
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
 ## Background
 
 <details>
-<summary><strong>Experience, education &amp; professional introduction</strong></summary>
+<summary><strong>Experience, education and professional introduction</strong></summary>
 
-I build software, investigate system behavior and document what the evidence supports. My experience comes from **study, hands-on labs and collaborative projects** across Python, Linux, security, cloud and DevOps.
+I build software, investigate system behavior and document what the evidence supports. My experience comes from study, hands-on labs and collaborative projects across Python, Linux, security, cloud and DevOps.
 
-At **[HR-Presents](https://github.com/HR-Presents)**, I work with **[Ruveeha Ashfaq](https://github.com/ruveeha33), Co-Founder & CEO**, on software products and technical education. We share product ownership and credit throughout planning, development, testing, documentation and releases.
+At [HR-Presents](https://github.com/HR-Presents), I work with [Ruveeha Ashfaq](https://github.com/ruveeha33), Co-Founder & CEO, on software products and technical education. We share product ownership and credit throughout planning, development, testing, documentation and releases.
 
-## Experience
+### Experience
 
 | Role | Since | Work |
 | :--- | :--- | :--- |
@@ -226,14 +214,14 @@ At **[HR-Presents](https://github.com/HR-Presents)**, I work with **[Ruveeha Ash
 | **Udemy Instructor** | Sep 2026 | Two published courses co-created with Ruveeha |
 | **Student Member — Al Nafi International College** | Aug 2026 | Structured learning and lab exercises across Linux, cloud, security and automation |
 
-## Education & training
+### Education & training
 
 | Program | Institution | Status |
 | :--- | :--- | :--- |
 | **AIOPS Level 6 — Artificial Intelligence** | Al Nafi International College | In progress · Aug 2025–Feb 2027 expected |
 | **Diploma in Cloud Cyber Security (RQF 3)** | Al Nafi International College · EduQual Level 3 | Completed · Jun–Aug 2024 · Grade B |
 
-## Skills & practical capabilities
+### Skills & practical capabilities
 
 | Area | Skills |
 | :--- | :--- |
@@ -244,16 +232,14 @@ At **[HR-Presents](https://github.com/HR-Presents)**, I work with **[Ruveeha Ash
 | **Observability** | Prometheus · Grafana |
 | **AI & analysis** | Artificial Intelligence · Machine Learning · Anomaly Detection |
 
-The projects above connect these skills to inspectable work. AI topics also form part of my ongoing studies. [Full skills and learning context](docs/professional-background.md#technical-skills-listed-on-linkedin).
+The projects above connect these skills to inspectable work. AI topics also form part of ongoing studies. [Full skills and learning context](docs/professional-background.md#technical-skills-listed-on-linkedin).
 
 </details>
-
-<img src="./section-divider.svg" width="100%" alt="" />
 
 ## Credentials
 
 <details>
-<summary><strong>View credentials, training badge &amp; languages</strong></summary>
+<summary><strong>View credentials, training badge and languages</strong></summary>
 
 | Credential | Issuer | Issued | Verify |
 | :--- | :--- | :--- | :--- |
@@ -269,10 +255,8 @@ I welcome opportunities to contribute, gain professional experience and build us
 
 [Full professional background](docs/professional-background.md) · [Project credits](docs/professional-background.md#project-contributions-and-credits) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/) · [HR-Presents](https://www.linkedin.com/company/hr-presents/)
 
-
-
 ---
 
 <img src="./profile-footer.svg" width="100%" alt="Secure by design. Clear in execution. Built to be useful." />
 
-<p align="center"><a href="#featured-engineering-work">Explore engineering work</a> · <a href="https://www.linkedin.com/in/haziq-afzal/">Connect on LinkedIn</a> · <a href="#our-udemy-courses">View courses</a></p>
+<p align="center"><a href="#selected-engineering-work">Explore engineering work</a> · <a href="https://www.linkedin.com/in/haziq-afzal/">Connect on LinkedIn</a> · <a href="#our-udemy-courses">View courses</a></p>
