@@ -1,0 +1,328 @@
+{
+  "status": "Critical",
+  "risk_score": 100,
+  "record_count": 6,
+  "invalid_values": 0,
+  "sensor_confidence": 100,
+  "source_type": "Integrated water/process + Water/process telemetry",
+  "tools": [
+    "AquaVigil validation engine",
+    "Explainable baseline engine"
+  ],
+  "series": {
+    "ph": {
+      "latest": 6.7,
+      "mean": 6.72,
+      "min": 6.1,
+      "max": 7.2,
+      "values": [
+        7.2,
+        7.1,
+        6.9,
+        6.3,
+        6.1,
+        6.7
+      ],
+      "range": [
+        6.5,
+        8.5
+      ],
+      "unit": "pH units"
+    },
+    "conductivity": {
+      "latest": 780.0,
+      "mean": 782.5,
+      "min": 630.0,
+      "max": 1040.0,
+      "values": [
+        630.0,
+        635.0,
+        700.0,
+        910.0,
+        1040.0,
+        780.0
+      ],
+      "range": [
+        50,
+        1500
+      ],
+      "unit": "\u00b5S/cm"
+    },
+    "turbidity": {
+      "latest": 0.82,
+      "mean": 0.82,
+      "min": 0.25,
+      "max": 1.72,
+      "values": [
+        0.25,
+        0.27,
+        0.42,
+        1.45,
+        1.72,
+        0.82
+      ],
+      "range": [
+        0,
+        1.0
+      ],
+      "unit": "NTU"
+    },
+    "chlorine": {
+      "latest": 3.6,
+      "mean": 3.13,
+      "min": 1.1,
+      "max": 5.3,
+      "values": [
+        1.1,
+        1.2,
+        2.8,
+        4.8,
+        5.3,
+        3.6
+      ],
+      "range": [
+        0.2,
+        4.0
+      ],
+      "unit": "mg/L"
+    },
+    "salinity": {
+      "latest": 0.32,
+      "mean": 0.3,
+      "min": 0.19,
+      "max": 0.48,
+      "values": [
+        0.19,
+        0.2,
+        0.23,
+        0.39,
+        0.48,
+        0.32
+      ],
+      "range": [
+        0,
+        0.5
+      ],
+      "unit": "ppt"
+    },
+    "pressure": {
+      "latest": 64.0,
+      "mean": 64.17,
+      "min": 57.0,
+      "max": 74.0,
+      "values": [
+        57.0,
+        58.0,
+        62.0,
+        70.0,
+        74.0,
+        64.0
+      ],
+      "range": [
+        2,
+        80
+      ],
+      "unit": "bar"
+    },
+    "flow": {
+      "latest": 1030.0,
+      "mean": 1058.67,
+      "min": 910.0,
+      "max": 1160.0,
+      "values": [
+        1160.0,
+        1152.0,
+        1120.0,
+        980.0,
+        910.0,
+        1030.0
+      ],
+      "range": [
+        1,
+        5000
+      ],
+      "unit": "m\u00b3/h"
+    },
+    "temperature": {
+      "latest": 24.7,
+      "mean": 24.57,
+      "min": 24.2,
+      "max": 25.0,
+      "values": [
+        24.2,
+        24.3,
+        24.4,
+        24.8,
+        25.0,
+        24.7
+      ],
+      "range": [
+        2,
+        35
+      ],
+      "unit": "\u00b0C"
+    }
+  },
+  "findings": [
+    {
+      "domain": "Water quality",
+      "severity": "critical",
+      "title": "Ph outside the configured safe range",
+      "observed": "2 of 6 readings breached 6.5\u20138.5 pH units; observed 6.10\u20137.20 pH units.",
+      "expected": "Every valid ph reading should remain between 6.5 and 8.5 pH units for this demonstration profile.",
+      "detection_logic": "A deterministic limit check compared every parsed reading with the documented operating envelope.",
+      "why_it_matters": "A sustained excursion can indicate sensor error, treatment instability, or a condition requiring independent sampling.",
+      "evidence": "2 of 6 readings breached 6.5\u20138.5 pH units; observed 6.10\u20137.20 pH units.",
+      "recommendation": "Verify calibration, obtain an independent sample, inspect the relevant treatment stage, and follow the approved escalation procedure.",
+      "source": "AquaVigil threshold engine"
+    },
+    {
+      "domain": "Water quality",
+      "severity": "critical",
+      "title": "Turbidity outside the configured safe range",
+      "observed": "2 of 6 readings breached 0\u20131.0 NTU; observed 0.25\u20131.72 NTU.",
+      "expected": "Every valid turbidity reading should remain between 0 and 1.0 NTU for this demonstration profile.",
+      "detection_logic": "A deterministic limit check compared every parsed reading with the documented operating envelope.",
+      "why_it_matters": "A sustained excursion can indicate sensor error, treatment instability, or a condition requiring independent sampling.",
+      "evidence": "2 of 6 readings breached 0\u20131.0 NTU; observed 0.25\u20131.72 NTU.",
+      "recommendation": "Verify calibration, obtain an independent sample, inspect the relevant treatment stage, and follow the approved escalation procedure.",
+      "source": "AquaVigil threshold engine"
+    },
+    {
+      "domain": "Water quality",
+      "severity": "critical",
+      "title": "Chlorine outside the configured safe range",
+      "observed": "2 of 6 readings breached 0.2\u20134.0 mg/L; observed 1.10\u20135.30 mg/L.",
+      "expected": "Every valid chlorine reading should remain between 0.2 and 4.0 mg/L for this demonstration profile.",
+      "detection_logic": "A deterministic limit check compared every parsed reading with the documented operating envelope.",
+      "why_it_matters": "A sustained excursion can indicate sensor error, treatment instability, or a condition requiring independent sampling.",
+      "evidence": "2 of 6 readings breached 0.2\u20134.0 mg/L; observed 1.10\u20135.30 mg/L.",
+      "recommendation": "Verify calibration, obtain an independent sample, inspect the relevant treatment stage, and follow the approved escalation procedure.",
+      "source": "AquaVigil threshold engine"
+    },
+    {
+      "domain": "OT security",
+      "severity": "critical",
+      "title": "Unauthorized chemical-dosing activity correlated",
+      "observed": "2 non-hold dosing command(s) were explicitly marked unauthorized in the evidence.",
+      "expected": "Chemical-dosing changes must originate from an approved OT workflow and carry valid authorization context.",
+      "detection_logic": "The correlation engine joined command intent and authorization state record by record, then checked quality context.",
+      "why_it_matters": "Unauthorized dosing can create a cyber-physical public-health consequence rather than a network-only alert.",
+      "evidence": "2 non-hold dosing command(s) were explicitly marked unauthorized in the evidence.",
+      "recommendation": "Isolate the command path, preserve logs, independently verify water quality, and restore a validated controller configuration under operator authority.",
+      "source": "AquaVigil cyber-process correlation"
+    }
+  ],
+  "network": {
+    "events": 6,
+    "alerts": 0,
+    "denied": 0,
+    "cross_zone": 0,
+    "sources": 1,
+    "destinations": 1,
+    "protocols": [
+      "unknown"
+    ]
+  },
+  "ml_quality": {
+    "model": "synthetic-v1",
+    "evaluated": 6,
+    "flagged": 2,
+    "flagged_rows": [
+      [
+        3,
+        0.873
+      ],
+      [
+        4,
+        0.894
+      ]
+    ],
+    "note": "Synthetic classification for investigative review, not contamination confirmation."
+  },
+  "advisory_matches": [],
+  "summary": {
+    "headline": "Critical evidence state with 4 explainable finding(s)",
+    "what_was_analyzed": "6 integrated water/process + water/process telemetry record(s) were parsed, validated, and correlated.",
+    "how_it_worked": "AquaVigil used deterministic operating limits, an explainable recent-baseline model, authorization checks, and network-event context. No opaque score is used without supporting evidence.",
+    "next_action": "Review the evidence details and use approved operating, laboratory, and incident-response procedures before any real-world action."
+  },
+  "optimization": {
+    "membrane_fouling_risk": 57,
+    "specific_energy_kwh_m3": 3.73,
+    "demand_forecast_m3": 25408,
+    "estimated_daily_volume_m3": 25408,
+    "pressure_trend_per_sample_bar": null,
+    "flow_projection": {
+      "available": false,
+      "reason": "At least 12 ordered flow readings are required."
+    },
+    "recommendation": "Schedule a supervised membrane inspection and review normalized pressure/flow trends.",
+    "authority": "Decision support only\u2014engineering limits, laboratory evidence, and operator approval remain authoritative.",
+    "explanation": "Fouling risk combines the pressure factor (14.7) with quality/anomaly evidence (24 points); energy rises with calculated fouling risk."
+  },
+  "incident_flow": [
+    "Detect",
+    "Validate",
+    "Correlate",
+    "Prioritize",
+    "Respond",
+    "Recover"
+  ],
+  "compliance": [
+    {
+      "framework": "WHO Water Safety Plan",
+      "control": "Operational monitoring",
+      "state": "Evidence available",
+      "evidence": "Uploaded sensor trends and configured demo limits"
+    },
+    {
+      "framework": "EPA water-system guidance",
+      "control": "Incident evidence",
+      "state": "Evidence available",
+      "evidence": "Finding, detection reason and response advice"
+    },
+    {
+      "framework": "NIST SP 800-82 Rev. 3",
+      "control": "Passive OT network visibility",
+      "state": "Evidence available",
+      "evidence": "Exported connection and alert records"
+    },
+    {
+      "framework": "Local jurisdiction",
+      "control": "Regulatory submission",
+      "state": "Not evidenced",
+      "evidence": "Jurisdiction and authority have not been configured"
+    }
+  ],
+  "standards_evidence": [
+    {
+      "framework": "WHO Water Safety Plan",
+      "area": "Operational monitoring",
+      "evidenced": true,
+      "evidence": "Uploaded sensor trends and configured demo limits",
+      "assessment": "Demonstration evidence only; no certification or legal conclusion"
+    },
+    {
+      "framework": "EPA water-system guidance",
+      "area": "Incident evidence",
+      "evidenced": true,
+      "evidence": "Finding, detection reason and response advice",
+      "assessment": "Demonstration evidence only; no certification or legal conclusion"
+    },
+    {
+      "framework": "NIST SP 800-82 Rev. 3",
+      "area": "Passive OT network visibility",
+      "evidenced": true,
+      "evidence": "Exported connection and alert records",
+      "assessment": "Demonstration evidence only; no certification or legal conclusion"
+    },
+    {
+      "framework": "Local jurisdiction",
+      "area": "Regulatory submission",
+      "evidenced": false,
+      "evidence": "Jurisdiction and authority have not been configured",
+      "assessment": "Demonstration evidence only; no certification or legal conclusion"
+    }
+  ]
+}

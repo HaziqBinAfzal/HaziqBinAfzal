@@ -1,0 +1,52 @@
+{
+  "schema": "aegislog-streaming-benchmark-1",
+  "tool_version": "2.1.17",
+  "environment": {
+    "python": "3.12.14",
+    "os_family": "Linux",
+    "architecture": "x86_64"
+  },
+  "workload": {
+    "kind": "synthetic",
+    "records": 100000,
+    "bytes": 6884890,
+    "error_every_records": 100,
+    "retained_finding_limit": 100,
+    "repeats": 3,
+    "input_sha256": "4782ed5a5fb11dca6bfaba751abe4496360f5718aa9628f8e5994ba787e675ea"
+  },
+  "samples": [
+    {
+      "seconds": 6.464758,
+      "records_per_second": 15468.48,
+      "peak_python_allocated_bytes": 286070,
+      "processed_records": 100000,
+      "retained_findings": 100,
+      "omitted_findings": 900,
+      "truncated_lines": 0,
+      "source_unchanged": true
+    },
+    {
+      "seconds": 6.515269,
+      "records_per_second": 15348.56,
+      "peak_python_allocated_bytes": 124360,
+      "processed_records": 100000,
+      "retained_findings": 100,
+      "omitted_findings": 900,
+      "truncated_lines": 0,
+      "source_unchanged": true
+    },
+    {
+      "seconds": 6.761066,
+      "records_per_second": 14790.57,
+      "peak_python_allocated_bytes": 124352,
+      "processed_records": 100000,
+      "retained_findings": 100,
+      "omitted_findings": 900,
+      "truncated_lines": 0,
+      "source_unchanged": true
+    }
+  ],
+  "median_records_per_second": 15348.56,
+  "limitations": "Streaming engine only; excludes HTML rendering, native collection and live polling. tracemalloc adds overhead and measures Python allocations, not whole-process RSS. Synthetic local timings are environment-specific, not production performance or detection-accuracy claims."
+}

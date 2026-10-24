@@ -41,11 +41,11 @@ At **[HR-Presents](https://github.com/HR-Presents)**, I work with **[Ruveeha Ash
 
 | Review | What the retained record shows |
 | :--- | :--- |
-| **AegisLog synthetic investigation** | The [fixture manifest](https://github.com/HR-Presents/AegisLog/blob/main/docs/demo/expected-results.json), validated against 2.1.11, records 9 recognized records, 2 findings and 1 incident group |
+| **AegisLog synthetic investigation** | [Fresh v2.1.17 source run](docs/verification/2026-10-24/README.md): 9 recognized records, 2 findings, 1 incident; **689 tests passed** |
 | **LinuxOps memory troubleshooting** | Ruveeha's [incident record](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab/blob/main/phases/phase-01/docs/memory-troubleshooting.md) shows approximately 609 MiB before and 3.6 GiB after the change/restart |
-| **AquaVigil scenario** | The [six-record synthetic fixture](https://github.com/HaziqBinAfzal/AquaVigil/blob/main/data/unexpected_dosing_incident.csv) includes two unauthorized enterprise-zone dosing records |
+| **AquaVigil scenario** | [Fresh source run](docs/verification/2026-10-24/README.md): 6 synthetic records, Critical status, risk score 100; **14 tests passed** |
 
-These are recorded examples and fixture expectations, not new benchmark runs or production-performance claims.
+[Inspect test logs, generated reports and the reproducible streaming benchmark](docs/verification/2026-10-24/README.md). These synthetic Linux runs do not establish production performance, detection accuracy or Windows/Docker acceptance.
 
 **More work:** [SFVDS](https://github.com/HaziqBinAfzal/sfvds) · [Jira Python Automation](https://github.com/HaziqBinAfzal/jira-python-automation-bot) · [Smart Mount Manager](https://github.com/HaziqBinAfzal/Smart_Mount_Manager)  
 **Learning forks:** [AWS](https://github.com/HaziqBinAfzal/aws-devops-zero-to-hero) · [Terraform](https://github.com/HaziqBinAfzal/terraform-zero-to-hero)

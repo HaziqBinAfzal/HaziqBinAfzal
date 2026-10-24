@@ -2,7 +2,7 @@
 
 [Back to profile](../README.md) · [Professional background](professional-background.md)
 
-Explore the problem, the demonstration and the evidence behind each project. Repository material was reviewed on **24 October 2026**. No new application run or benchmark is claimed by this gallery.
+Explore the problem, the demonstration and the evidence behind each project. Repository material was reviewed on **24 October 2026**. [Fresh Linux source runs, tests and benchmark results](verification/2026-10-24/README.md) are available with exact source commits and reproduction instructions.
 
 ## Choose a project
 
@@ -46,7 +46,7 @@ The downloadable demo uses fictional accounts, events and documentation-range ad
 | `first-investigation.log` | 9 records, 9 recognized, 2 findings and 1 incident group |
 | `clean-baseline.log` | 3 records, 3 recognized, no findings and no incident groups |
 
-The [manifest](https://github.com/HR-Presents/AegisLog/blob/main/docs/demo/expected-results.json) records validation against **2.1.11**. Those counts are fixture expectations, not a claim that this gallery reran the latest release.
+The [manifest](https://github.com/HR-Presents/AegisLog/blob/main/docs/demo/expected-results.json) records validation against **2.1.11**. A fresh source run of **2.1.17** confirmed the investigation counts: **9 recognized records, 2 findings and 1 incident**. The suite passed **689 tests**. [Actual outputs and reproduction steps](verification/2026-10-24/README.md). The baseline row above remains the repository-recorded expectation.
 
 **Walkthrough:** open AegisLog → choose **01 Analyze** → select the extracted fixture → open Reports → inspect summary and full evidence → compare the baseline.
 
@@ -62,7 +62,7 @@ The bundled fixture contains **six synthetic records**, including two unauthoriz
 
 [Fixture](https://github.com/HaziqBinAfzal/AquaVigil/blob/main/data/unexpected_dosing_incident.csv) · [Demonstration guide](https://github.com/HaziqBinAfzal/AquaVigil/blob/main/docs/DEMONSTRATION_GUIDE.md) · [Implementation scope](https://github.com/HaziqBinAfzal/AquaVigil/blob/main/docs/REQUIREMENT_MATRIX.md)
 
-The default stack provides the app, Prometheus and Grafana. It does not deploy live industrial sensors or plant controls. This gallery links the documented walkthrough rather than inventing application screenshots.
+The default stack provides the app, Prometheus and Grafana. It does not deploy live industrial sensors or plant controls. A fresh Python source run analyzed the six-record fixture as **Critical**, risk score **100**; **14 tests passed** (361 warnings). [Actual exported report, results and reproduction steps](verification/2026-10-24/README.md). Docker and monitoring-stack acceptance were not tested.
 
 ## Sentrix — public product overview
 
