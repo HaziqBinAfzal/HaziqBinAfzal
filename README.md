@@ -1,5 +1,3 @@
-<div align="center">
-
 <img src="./assets/profile-banner.svg" alt="Haziq Afzal professional profile banner" width="100%" />
 
 # Haziq Afzal
@@ -14,84 +12,54 @@ Abu Dhabi, UAE
 [![HR-Presents](https://img.shields.io/badge/HR--Presents-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HR-Presents)
 [![GitHub](https://img.shields.io/badge/GitHub-123B63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaziqBinAfzal)
 
-[Projects](#selected-engineering-work) · [Evidence](#engineering-evidence) · [Toolbox](#technical-toolkit) · [Collaboration & Courses](#building-together--teaching) · [Background](#background)
+[Projects](#selected-engineering-work) · [Evidence](#engineering-evidence) · [Toolbox](#technical-toolkit) · [Teaching](#building-together--teaching) · [Background](#background)
 
-</div>
-
-<img src="./section-divider.svg" width="100%" alt="" />
+---
 
 I work on tools for checking Python code, investigating logs and automating Linux tasks. I develop software with Ruveeha at HR-Presents while continuing my AIOPS studies; the projects below show the work and its limits.
 
 ## Selected engineering work
 
-### Flagship projects
+<a href="docs/case-studies/sentrix.md"><img src="./sentrix-engineering.svg" width="100%" alt="Sentrix V1 — Python code security and quality review" /></a>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="docs/case-studies/sentrix.md"><img src="./card-sentrix.svg" width="100%" alt="Sentrix V1 — Python code security and quality analyzer" /></a>
-<p>Ruveeha and I jointly develop Sentrix, combining Bandit, Pylint, Radon and Black in one application. Our shared work includes implementation, testing and release preparation.</p>
-<p><strong>Design choice:</strong> keep security, quality, complexity and formatting results distinct, so a result from one check is not mistaken for an overall verdict.</p>
-<p><a href="docs/case-studies/sentrix.md"><strong>Product case study →</strong></a> · <span>Private source</span></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/HR-Presents/AegisLog"><img src="./card-aegislog.svg" width="100%" alt="AegisLog — defensive log investigation" /></a>
-<p>Ruveeha and I jointly develop AegisLog for defensive log investigation and local HTML reporting, including implementation, testing and release preparation.</p>
-<p><strong>Design choice:</strong> preserve source logs and bound retained evidence. Reports disclose coverage and truncation, so investigators can see what the analysis leaves out.</p>
-<p><strong>Verified Linux source run:</strong> 689 tests passed; 9 recognized synthetic records, 2 findings and 1 incident (24 Oct 2026).</p>
-<p><a href="docs/case-studies/aegislog.md"><strong>Engineering case study →</strong></a> · <a href="https://github.com/HR-Presents/AegisLog">Repository</a> · <a href="docs/verification/2026-10-24/README.md">Test evidence</a></p>
-</td>
-</tr>
-</table>
+Ruveeha and I jointly develop Sentrix, combining Bandit, Pylint, Radon and Black in one application. Our shared work includes implementation, testing and release preparation.
 
-### More projects
+**Design choice:** keep security, quality, complexity and formatting results distinct, so a result from one check is not mistaken for an overall verdict.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/HaziqBinAfzal/AquaVigil"><img src="./card-aquavigil.svg" width="100%" alt="AquaVigil" /></a>
-<p>Educational water/process and OT evidence analysis with Prometheus and Grafana observability.</p>
-<p><strong>Verified Linux source run:</strong> 14 tests passed, 361 warnings (24 Oct 2026).</p>
-<a href="docs/case-studies/aquavigil.md">Case study →</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/HaziqBinAfzal/AI-Log-Analyzer"><img src="./card-ai-log.svg" width="100%" alt="AI Log Analyzer" /></a>
-<p>Collaborative Flask log-analysis dashboard; Haziq contributed frontend UI and API integration.</p>
-<a href="docs/professional-background.md#additional-github-work">Contribution details →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/HaziqBinAfzal/linux-backup-recovery-system"><img src="./card-linux-backup.svg" width="100%" alt="Linux Backup and Recovery" /></a>
-<p>Documented backup and restoration using rsync, tar, GPG, SHA256, SSH and cron.</p>
-<a href="docs/professional-background.md#enterprise-linux-backup--recovery-system">Workflow and team credits →</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/HaziqBinAfzal/jira-python-automation-bot"><img src="./card-jira.svg" width="100%" alt="Jira Python Automation" /></a>
-<p>Collaborative Python REST API project for issue creation and workflow automation.</p>
-<a href="https://github.com/HaziqBinAfzal/jira-python-automation-bot">Repository →</a>
-</td>
-</tr>
-</table>
+[Read the product case study →](docs/case-studies/sentrix.md) · Private source
+
+<a href="https://github.com/HR-Presents/AegisLog"><img src="./aegislog-engineering.svg" width="100%" alt="AegisLog — Defensive log investigation and evidence review" /></a>
+
+Ruveeha and I jointly develop AegisLog for defensive log investigation and local HTML reporting, including implementation, testing and release preparation.
+
+**Design choice:** preserve source logs and bound retained evidence. Reports disclose coverage and truncation, so investigators can see what the analysis leaves out.
+
+[Read the engineering case study →](docs/case-studies/aegislog.md) · [Repository](https://github.com/HR-Presents/AegisLog) · [Recorded tests](docs/verification/2026-10-24/README.md)
+
+### Systems, labs and automation
+
+| Project | Work and contribution | Explore |
+| :--- | :--- | :--- |
+| **AquaVigil** | Educational water/process and OT evidence analysis with Prometheus and Grafana observability | [Case study](docs/case-studies/aquavigil.md) · [Repository](https://github.com/HaziqBinAfzal/AquaVigil) |
+| **LinuxOps Enterprise Lab** | Haziq’s Ubuntu baseline and service-health checks; Ruveeha’s Rocky Linux work is separately credited. Phase 01 complete; Phases 02–10 planned | [Haziq’s original evidence](docs/demo-gallery.md#haziq--ubuntu-baseline) · [Lab](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab) |
+| **AI Log Analyzer** | Collaborative Flask dashboard; Haziq contributed frontend UI and API integration | [Contribution details](docs/professional-background.md#additional-github-work) · [Repository](https://github.com/HaziqBinAfzal/AI-Log-Analyzer) |
+| **Linux Backup & Recovery** | Documented backup and restoration using rsync, tar, GPG, SHA256, SSH and cron | [Workflow and team credits](docs/professional-background.md#enterprise-linux-backup--recovery-system) · [Repository](https://github.com/HaziqBinAfzal/linux-backup-recovery-system) |
+| **Jira Python Automation** | Collaborative Python REST API project for issue creation and workflow automation | [Repository](https://github.com/HaziqBinAfzal/jira-python-automation-bot) |
 
 ## Engineering evidence
 
-**Evidence over assertions.** The dated records below show what was actually tested. They do not imply production deployment or detection accuracy.
+[![Recorded Linux source runs: AegisLog 689 tests passed; AquaVigil 14 tests passed, 361 warnings; dated 24 October 2026](engineering-results.svg)](docs/verification/2026-10-24/README.md)
 
-| Source | Retained evidence · 24 October 2026 |
-| :--- | :--- |
-| **AegisLog** | [Linux source verification](docs/verification/2026-10-24/README.md): **689 tests passed**; synthetic investigation with 9 recognized records, 2 findings and 1 incident |
-| **AquaVigil** | [Linux source verification](docs/verification/2026-10-24/README.md): **14 tests passed, 361 warnings**; 6 synthetic records, Critical scenario, risk score 100 |
-| **LinuxOps** | [Ruveeha's memory troubleshooting record](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab/blob/main/phases/phase-01/docs/memory-troubleshooting.md): approximately 609 MiB before and 3.6 GiB after the change/restart |
+[Test logs, reports and reproduction steps](docs/verification/2026-10-24/README.md) · [Demo gallery](docs/demo-gallery.md)
 
-[View demo gallery](docs/demo-gallery.md) · [Inspect test logs, reports and streaming benchmark](docs/verification/2026-10-24/README.md)
+**Linux lab evidence:** [Haziq’s Ubuntu baseline](docs/demo-gallery.md#haziq--ubuntu-baseline) · [Ruveeha’s Rocky Linux memory incident](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab/blob/main/phases/phase-01/docs/memory-troubleshooting.md), approximately 609 MiB before and 3.6 GiB after the change/restart.
 
-<sub>These are dated synthetic Linux source runs, not evidence of production performance, detection accuracy, or Windows/Docker acceptance.</sub>
+<sub>These are dated synthetic Linux source runs, not evidence of production performance, detection accuracy, or Windows/Docker acceptance. AquaVigil’s six-record scenario returned Critical status and risk score 100; that is application output, not measured detection accuracy.</sub>
 
 **More work:** [SFVDS](https://github.com/HaziqBinAfzal/sfvds) · [Jira Python Automation](https://github.com/HaziqBinAfzal/jira-python-automation-bot) · [Smart Mount Manager](https://github.com/HaziqBinAfzal/Smart_Mount_Manager)  
 **Learning forks:** [AWS](https://github.com/HaziqBinAfzal/aws-devops-zero-to-hero) · [Terraform](https://github.com/HaziqBinAfzal/terraform-zero-to-hero)
 
-<img src="./section-divider.svg" width="100%" alt="" />
+---
 
 ## Technical toolkit
 
@@ -152,28 +120,22 @@ Tools used in projects and labs, alongside subjects I am studying. [Skills and l
 
 </details>
 
-<img src="./section-divider.svg" width="100%" alt="" />
+---
 
 ## Building together & teaching
 
-<img src="./founders-panel.svg" width="100%" alt="HR-Presents founders: Haziq Afzal — Co-Founder and CTO; Ruveeha Ashfaq — Co-Founder and CEO" />
-
-I collaborate with **Ruveeha Ashfaq — Co-Founder & CEO, HR-Presents and Udemy Instructor**. [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/)
+I co-founded **[HR-Presents](https://github.com/HR-Presents)** with **Ruveeha Ashfaq, Co-Founder & CEO**. We develop software and create technical courses together, sharing product ownership and contributor credit. Ruveeha: [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/).
 
 ### Our Udemy courses
 
 Co-created and presented by **Haziq Afzal and Ruveeha Ashfaq** under HR-Presents.
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><img src="./card-course-docker.svg" width="100%" alt="Docker Pro Skills: Build, Secure &amp; Deploy Applications" /></a><p>Dockerfiles, Compose, networking, security, troubleshooting, CI/CD, an e-commerce capstone and introductory Kubernetes.</p></td>
-<td width="50%" valign="top"><a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><img src="./card-course-safety.svg" width="100%" alt="Think Before You Click: The Online Safety Course" /></a><p>Scams, phishing, account protection, privacy and safer everyday digital decisions.</p></td>
-</tr>
-</table>
+| Course | What it covers |
+| :--- | :--- |
+| **[Docker Pro Skills: Build, Secure & Deploy Applications](https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/)** | Dockerfiles, Compose, networking, security, troubleshooting, CI/CD, an e-commerce capstone and introductory Kubernetes |
+| **[Think Before You Click: The Online Safety Course](https://www.udemy.com/course/think-before-you-click-the-online-safety-course/)** | Scams, phishing, account protection, privacy and safer everyday digital decisions |
 
 Our shared work includes curriculum, demonstrations, recording, quizzes, presentations and downloadable practice resources.
-
-<img src="./section-divider.svg" width="100%" alt="" />
 
 ## Development activity
 
@@ -183,7 +145,7 @@ Our shared work includes curriculum, demonstrations, recording, quizzes, present
 
 <sub>Dated snapshot of GitHub’s displayed calendar through 24 October 2026; October is partial. [Source counts](contribution-data.json). See GitHub’s contribution calendar below for current activity.</sub>
 
-<img src="./section-divider.svg" width="100%" alt="" />
+---
 
 ## Background
 
@@ -245,6 +207,4 @@ I am open to opportunities in **Python engineering, Linux administration, securi
 
 ---
 
-<img src="./profile-footer.svg" width="100%" alt="Secure by design. Clear in execution. Built to be useful." />
-
-<p align="center"><a href="#selected-engineering-work">Explore engineering work</a> · <a href="https://www.linkedin.com/in/haziq-afzal/">Connect on LinkedIn</a> · <a href="#our-udemy-courses">View courses</a></p>
+[LinkedIn](https://www.linkedin.com/in/haziq-afzal/) · [HR-Presents](https://github.com/HR-Presents) · [Project credits](docs/professional-background.md#project-contributions-and-credits)
