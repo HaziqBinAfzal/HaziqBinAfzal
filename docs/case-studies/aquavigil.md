@@ -5,6 +5,29 @@
 **Focus:** Python · Flask · Docker Compose · evidence provenance · Prometheus · Grafana  
 **Credits:** Haziq Afzal — project author; Ruveeha Ashfaq — contributor. Development is collaborative.
 
+## Quick start — investigate unexpected dosing
+
+**My role:** project author working collaboratively with Ruveeha, a credited contributor. The repository's contributor section remains the source for attribution.
+
+**Requirements:** Windows 10/11, Git and Docker Desktop with Compose v2. Start Docker Desktop and wait for the engine to be ready.
+
+```powershell
+git clone https://github.com/HaziqBinAfzal/AquaVigil.git
+cd AquaVigil
+.\start-aquavigil.ps1
+```
+
+Alternatively, open `START-AQUAVIGIL.cmd` from the cloned folder for visible startup diagnostics. The launcher starts the stack and opens the application; use its displayed URL if ports were reassigned.
+
+1. Open **Analyze Evidence** and upload `data/unexpected_dosing_incident.csv`.
+2. Inspect classification and SHA256 provenance, then review the unauthorized dosing records alongside the process readings.
+3. Open the generated report and audit export. Inspect Prometheus and Grafana after the analysis.
+
+**Recorded result:** the [24 October Linux source run](../verification/2026-10-24/README.md) processed the six-record fixture as **Critical**, risk score **100**. This is a synthetic scenario result, not a detection-accuracy percentage. Docker and monitoring-stack acceptance were not tested in that run.
+
+**If startup fails:** stay in the cloned repository folder and inspect the launcher output. [Recovery guide](https://github.com/HaziqBinAfzal/AquaVigil/blob/main/docs/FAILURE_RECOVERY.md) · [Demonstration guide](https://github.com/HaziqBinAfzal/AquaVigil/blob/main/docs/DEMONSTRATION_GUIDE.md).
+
+
 ## The problem
 
 A water-quality observation and a suspicious network or dosing record can be difficult to interpret in isolation. An educational investigation needs to retain the original evidence, explain the context and distinguish demonstrated analysis from proposed industrial architecture.
@@ -40,7 +63,7 @@ The bundled [unexpected dosing fixture](https://github.com/HaziqBinAfzal/AquaVig
 | 09:20 | hold | true | OT | 5.3 |
 | 09:25 | hold | true | OT | 3.6 |
 
-All rows are dated **19 September 2026**. Values above are copied from the fixture; they are not calibrated plant measurements or results from a fresh run.
+All rows are dated **19 September 2026**. Values above are copied from the fixture; they are not calibrated plant measurements. The linked verification record separately documents a dated source run.
 
 The useful investigation question is whether authorization context, source zone and subsequent process readings deserve review together. Temporal association alone does not prove the command caused the process change.
 
@@ -70,3 +93,4 @@ A workflow definition is evidence of configured checks, not proof that the lates
 The prototype sends no industrial-control commands. Zeek/Suricata exports are evidence inputs; live sensors are not installed by the default stack. Synthetic ML screening, heuristic indicators and evidence-to-framework mappings do not establish field validation or regulatory certification.
 
 The core lesson is to make provenance and operational context visible while retaining human authority over interpretation and response.
+

@@ -5,6 +5,19 @@
 **Focus:** Python · code security · quality · complexity · reporting  
 **Credits:** Jointly developed by Haziq Afzal and Ruveeha Ashfaq under HR-Presents.
 
+## Review Sentrix in three steps
+
+**My role:** shared product development with Ruveeha across planning, implementation, testing, documentation and release preparation. This showcase does not assign individual components without supporting evidence.
+
+1. Start with the [public four-tool overview](https://www.linkedin.com/feed/update/urn:li:activity:7518587436281688064/) to see the product's intended workflow.
+2. Read the [reporting discussion](https://www.linkedin.com/feed/update/urn:li:activity:7497246132910178304/) for findings, locations and remediation context.
+3. For product access, contact [Haziq](https://www.linkedin.com/in/haziq-afzal/) or [Ruveeha](https://www.linkedin.com/in/ruveeha-ashfaq/) through the public channels above.
+
+**What to look for:** security findings, code-quality checks, complexity indicators and formatting results answer different questions. Review each category separately before deciding what to change.
+
+There is no public source-install command for this private-source product.
+
+
 ## Start here
 
 | Review path | Public material |
@@ -52,3 +65,4 @@ This page does not publish private source, reports, customer information or inte
 ## Engineering lesson
 
 Combining tools is only part of the problem. Results also need consistent organization, affected locations, explainable context and a review workflow that helps the developer verify a fix.
+

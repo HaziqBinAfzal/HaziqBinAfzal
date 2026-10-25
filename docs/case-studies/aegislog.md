@@ -5,6 +5,22 @@
 **Focus:** Python · defensive investigation · deterministic analysis · local reporting  
 **Credits:** Jointly developed by Haziq Afzal and Ruveeha Ashfaq under HR-Presents.
 
+## Quick start — the nine-record investigation
+
+**My role:** joint development with Ruveeha, including implementation, testing, troubleshooting, documentation and release preparation. Contributor credit remains shared.
+
+1. Open the [v2.1.17 release](https://github.com/HR-Presents/AegisLog/releases/tag/v2.1.17). Download `AegisLog-v2.1.17-Windows.zip` and its checksum, verify the download, then extract it and open `AegisLog.exe`.
+2. Download and extract the [synthetic demo pack](https://github.com/HR-Presents/AegisLog/blob/main/docs/demo/AegisLog-First-Investigation-Demo.zip).
+3. Choose **01 Analyze** and supply the full path to `first-investigation.log`.
+4. Open **O Reports**, or **R Reports** from home. Keep the summary and full-evidence HTML files together.
+
+**Expected result:** 9 recognized records, 2 findings (1 HIGH, 1 MEDIUM) and 1 incident group. Six failed logins form one authentication-burst finding. These counts were also confirmed in the [recorded v2.1.17 Linux source run](../verification/2026-10-24/README.md); that run does not verify the Windows executable on your computer.
+
+**Compare:** analyze `clean-baseline.log`. Its repository-recorded expectation is 3 recognized records, 0 findings and 0 incident groups.
+
+**If something differs:** check the version, filename, recognized-record count and collection limits first. The built-in **07 Demo** uses a different seven-record fixture. [Installation help](https://github.com/HR-Presents/AegisLog/blob/main/docs/INSTALL.md) · [Demo guide](https://github.com/HR-Presents/AegisLog/blob/main/docs/demo/README.md).
+
+
 ## The problem
 
 Raw logs contain events, repetition and missing context. A useful investigation needs to distinguish raw events from findings, show the evidence behind a lead and preserve the source for further review.
@@ -60,3 +76,4 @@ The separate built-in seven-record demo has different expected counts. Zero matc
 Native collection depends on operating system, permissions and source availability. Static fixtures do not generate new live events. The tool supports investigation and does not perform automatic remediation.
 
 The important engineering lesson is to expose how a result was produced: input coverage, rule context, retained evidence and limitations are more useful than an unexplained severity score.
+
