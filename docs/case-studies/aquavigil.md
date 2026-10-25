@@ -5,6 +5,10 @@
 **Focus:** Python · Flask · Docker Compose · evidence provenance · Prometheus · Grafana  
 **Credits:** Haziq Afzal — project author; Ruveeha Ashfaq — contributor. Development is collaborative.
 
+[![AquaVigil CI on main](https://github.com/HaziqBinAfzal/AquaVigil/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/HaziqBinAfzal/AquaVigil/actions/workflows/ci.yml)
+
+<sub>Live CI status for the main branch. Release publishing and deployment checks are separate workflows.</sub>
+
 ## Quick start — investigate unexpected dosing
 
 **My role:** project author working collaboratively with Ruveeha, a credited contributor. The repository's contributor section remains the source for attribution.
@@ -93,4 +97,5 @@ A workflow definition is evidence of configured checks, not proof that the lates
 The prototype sends no industrial-control commands. Zeek/Suricata exports are evidence inputs; live sensors are not installed by the default stack. Synthetic ML screening, heuristic indicators and evidence-to-framework mappings do not establish field validation or regulatory certification.
 
 The core lesson is to make provenance and operational context visible while retaining human authority over interpretation and response.
+
 

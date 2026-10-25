@@ -5,6 +5,10 @@
 **Focus:** Python · defensive investigation · deterministic analysis · local reporting  
 **Credits:** Jointly developed by Haziq Afzal and Ruveeha Ashfaq under HR-Presents.
 
+[![AegisLog CI on main](https://github.com/HR-Presents/AegisLog/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/HR-Presents/AegisLog/actions/workflows/ci.yml)
+
+<sub>Live CI status for the main branch. Release publishing and deployment checks are separate workflows.</sub>
+
 ## Quick start — the nine-record investigation
 
 **My role:** joint development with Ruveeha, including implementation, testing, troubleshooting, documentation and release preparation. Contributor credit remains shared.
@@ -76,4 +80,5 @@ The separate built-in seven-record demo has different expected counts. Zero matc
 Native collection depends on operating system, permissions and source availability. Static fixtures do not generate new live events. The tool supports investigation and does not perform automatic remediation.
 
 The important engineering lesson is to expose how a result was produced: input coverage, rule context, retained evidence and limitations are more useful than an unexplained severity score.
+
 
