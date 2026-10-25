@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="226" viewBox="0 0 560 226" role="img" aria-labelledby="title desc">
 <title id="title">AI Log Analyzer</title><desc id="desc">Collaborative log-analysis dashboard · Frontend · APIs · Flask</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#0F1D32"/></linearGradient><linearGradient id="accent"><stop stop-color="#60A5FA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#0F1D32"/></linearGradient><linearGradient id="accent"><stop stop-color="#60A5FA"/><stop offset="1" stop-color="#60A5FA"/></linearGradient></defs>
 <rect x="1" y="1" width="558" height="224" rx="20" fill="url(#bg)" stroke="#243B53"/>
 <path d="M21 1h518" stroke="url(#accent)" stroke-width="3"/>
 <circle cx="515" cy="45" r="96" fill="#60A5FA" opacity=".07"/>

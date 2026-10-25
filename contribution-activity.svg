@@ -62,10 +62,10 @@ L 252.916364 -54.818182
 L 174.370909 -54.818182 
 L 95.825455 -54.818182 
 z
-" style="stroke: #0EA5E9; stroke-opacity: 0.15"/>
+" style="stroke: #3B82F6; stroke-opacity: 0.15"/>
     </defs>
     <g clip-path="url(#p0326f7580c)">
-     <use xlink:href="#m33df615902" x="0" y="252" style="fill: #0EA5E9; fill-opacity: 0.15; stroke: #0EA5E9; stroke-opacity: 0.15"/>
+     <use xlink:href="#m33df615902" x="0" y="252" style="fill: #3B82F6; fill-opacity: 0.15; stroke: #3B82F6; stroke-opacity: 0.15"/>
     </g>
    </g>
    <g id="matplotlib.axis_1">
@@ -195,7 +195,7 @@ L 567.098182 177.061091
 L 645.643636 76.457455 
 L 724.189091 188.829818 
 L 802.734545 167.190545 
-" clip-path="url(#p0326f7580c)" style="fill: none; stroke: #38BDF8; stroke-width: 2.8; stroke-linecap: square"/>
+" clip-path="url(#p0326f7580c)" style="fill: none; stroke: #63B3FF; stroke-width: 2.8; stroke-linecap: square"/>
     <defs>
      <path id="m303e3eeec0" d="M 0 2.5 
 C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
@@ -207,19 +207,19 @@ C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0
 C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
 C -1.29895 2.236584 -0.663008 2.5 0 2.5 
 z
-" style="stroke: #22d3ee"/>
+" style="stroke: #60A5FA"/>
     </defs>
     <g clip-path="url(#p0326f7580c)">
-     <use xlink:href="#m303e3eeec0" x="95.825455" y="197.181818" style="fill: #22d3ee; stroke: #22d3ee"/>
-     <use xlink:href="#m303e3eeec0" x="174.370909" y="197.181818" style="fill: #22d3ee; stroke: #22d3ee"/>
-     <use xlink:href="#m303e3eeec0" x="252.916364" y="197.181818" style="fill: #22d3ee; stroke: #22d3ee"/>
-     <use xlink:href="#m303e3eeec0" x="331.461818" y="186.931636" style="fill: #22d3ee; stroke: #22d3ee"/>
-     <use xlink:href="#m303e3eeec0" x="410.007273" y="193.005818" style="fill: #22d3ee; stroke: #22d3ee"/>
-     <use xlink:href="#m303e3eeec0" x="488.552727" y="191.866909" style="fill: #22d3ee; stroke: #22d3ee"/>
-     <use xlink:href="#m303e3eeec0" x="567.098182" y="177.061091" style="fill: #22d3ee; stroke: #22d3ee"/>
-     <use xlink:href="#m303e3eeec0" x="645.643636" y="76.457455" style="fill: #22d3ee; stroke: #22d3ee"/>
-     <use xlink:href="#m303e3eeec0" x="724.189091" y="188.829818" style="fill: #22d3ee; stroke: #22d3ee"/>
-     <use xlink:href="#m303e3eeec0" x="802.734545" y="167.190545" style="fill: #22d3ee; stroke: #22d3ee"/>
+     <use xlink:href="#m303e3eeec0" x="95.825455" y="197.181818" style="fill: #60A5FA; stroke: #60A5FA"/>
+     <use xlink:href="#m303e3eeec0" x="174.370909" y="197.181818" style="fill: #60A5FA; stroke: #60A5FA"/>
+     <use xlink:href="#m303e3eeec0" x="252.916364" y="197.181818" style="fill: #60A5FA; stroke: #60A5FA"/>
+     <use xlink:href="#m303e3eeec0" x="331.461818" y="186.931636" style="fill: #60A5FA; stroke: #60A5FA"/>
+     <use xlink:href="#m303e3eeec0" x="410.007273" y="193.005818" style="fill: #60A5FA; stroke: #60A5FA"/>
+     <use xlink:href="#m303e3eeec0" x="488.552727" y="191.866909" style="fill: #60A5FA; stroke: #60A5FA"/>
+     <use xlink:href="#m303e3eeec0" x="567.098182" y="177.061091" style="fill: #60A5FA; stroke: #60A5FA"/>
+     <use xlink:href="#m303e3eeec0" x="645.643636" y="76.457455" style="fill: #60A5FA; stroke: #60A5FA"/>
+     <use xlink:href="#m303e3eeec0" x="724.189091" y="188.829818" style="fill: #60A5FA; stroke: #60A5FA"/>
+     <use xlink:href="#m303e3eeec0" x="802.734545" y="167.190545" style="fill: #60A5FA; stroke: #60A5FA"/>
     </g>
    </g>
    <g id="text_16">
@@ -254,7 +254,7 @@ z
    </g>
   </g>
   <g id="text_26">
-   <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #38BDF8" x="432" y="20.477344" transform="rotate(-0 432 20.477344)">GitHub contribution activity · 2026 snapshot</text>
+   <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #63B3FF" x="432" y="20.477344" transform="rotate(-0 432 20.477344)">GitHub contribution activity · 2026 snapshot</text>
   </g>
   <g id="text_27">
    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #CBD5E1" x="432" y="244.44" transform="rotate(-0 432 244.44)">Observed 24 October 2026 · January–September complete, October partial · Static chart; see GitHub for current activity</text>

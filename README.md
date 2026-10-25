@@ -11,8 +11,8 @@ Python applications · Defensive security · Linux systems · DevOps & observabi
 Abu Dhabi, UAE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-afzal/)
-[![HR-Presents](https://img.shields.io/badge/HR--Presents-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HR-Presents)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaziqBinAfzal)
+[![HR-Presents](https://img.shields.io/badge/HR--Presents-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HR-Presents)
+[![GitHub](https://img.shields.io/badge/GitHub-123B63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaziqBinAfzal)
 
 [Projects](#selected-engineering-work) · [Evidence](#engineering-evidence) · [Toolbox](#technical-toolkit) · [Collaboration & Courses](#building-together--teaching) · [Background](#background)
 
@@ -20,29 +20,31 @@ Abu Dhabi, UAE
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
-I build Python applications and work on Linux, security and DevOps projects. The projects below include source code or public case studies, contributor details and dated verification records.
+I work on tools for checking Python code, investigating logs and automating Linux tasks. I develop software with Ruveeha at HR-Presents while continuing my AIOPS studies; the projects below show the work and its limits.
 
 ## Selected engineering work
 
-### Flagship / Software and defensive security
+### Flagship projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <a href="docs/case-studies/sentrix.md"><img src="./card-sentrix.svg" width="100%" alt="Sentrix V1 — Python code security and quality analyzer" /></a>
-<p>A collaborative HR-Presents product combining Bandit, Pylint, Radon and Black for security, quality, complexity and formatting analysis.</p>
+<p>Ruveeha and I jointly develop Sentrix, combining Bandit, Pylint, Radon and Black in one application. Our shared work includes implementation, testing and release preparation.</p>
+<p><strong>Design choice:</strong> keep security, quality, complexity and formatting results distinct, so a result from one check is not mistaken for an overall verdict.</p>
 <p><a href="docs/case-studies/sentrix.md"><strong>Product case study →</strong></a> · <span>Private source</span></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/HR-Presents/AegisLog"><img src="./card-aegislog.svg" width="100%" alt="AegisLog — defensive log investigation" /></a>
-<p>Read-only security log investigation with evidence review and local HTML reporting, supported by reproducible synthetic verification.</p>
+<p>Ruveeha and I jointly develop AegisLog for defensive log investigation and local HTML reporting, including implementation, testing and release preparation.</p>
+<p><strong>Design choice:</strong> preserve source logs and bound retained evidence. Reports disclose coverage and truncation, so investigators can see what the analysis leaves out.</p>
 <p><strong>Verified Linux source run:</strong> 689 tests passed; 9 recognized synthetic records, 2 findings and 1 incident (24 Oct 2026).</p>
 <p><a href="docs/case-studies/aegislog.md"><strong>Engineering case study →</strong></a> · <a href="https://github.com/HR-Presents/AegisLog">Repository</a> · <a href="docs/verification/2026-10-24/README.md">Test evidence</a></p>
 </td>
 </tr>
 </table>
 
-### Infrastructure / Automation / Applied security
+### More projects
 
 <table>
 <tr>
@@ -103,47 +105,47 @@ I build Python applications and work on Linux, security and DevOps projects. The
 ### Programming & automation
 
 ![Python](https://img.shields.io/badge/Python-123B63?style=for-the-badge&logo=python&logoColor=E0F2FE)
-![Bash](https://img.shields.io/badge/Bash-155E75?style=for-the-badge&logo=gnubash&logoColor=E0F2FE)
+![Bash](https://img.shields.io/badge/Bash-1E40AF?style=for-the-badge&logo=gnubash&logoColor=E0F2FE)
 ![Flask](https://img.shields.io/badge/Flask-1D4ED8?style=for-the-badge&logo=flask&logoColor=E0F2FE)
-![Automation](https://img.shields.io/badge/Automation-0E7490?style=for-the-badge&logo=python&logoColor=E0F2FE)
+![Automation](https://img.shields.io/badge/Automation-2563EB?style=for-the-badge&logo=python&logoColor=E0F2FE)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-123B63?style=for-the-badge&logoColor=E0F2FE)
-![Git](https://img.shields.io/badge/Git-155E75?style=for-the-badge&logo=git&logoColor=E0F2FE)
+![Git](https://img.shields.io/badge/Git-1E40AF?style=for-the-badge&logo=git&logoColor=E0F2FE)
 ![Jira](https://img.shields.io/badge/Jira-1D4ED8?style=for-the-badge&logo=jira&logoColor=E0F2FE)
 
 ### Linux & cloud
 
-![Linux](https://img.shields.io/badge/Linux-0E7490?style=for-the-badge&logo=linux&logoColor=E0F2FE)
+![Linux](https://img.shields.io/badge/Linux-2563EB?style=for-the-badge&logo=linux&logoColor=E0F2FE)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-123B63?style=for-the-badge&logo=ubuntu&logoColor=E0F2FE)
-![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-155E75?style=for-the-badge&logo=rockylinux&logoColor=E0F2FE)
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-1E40AF?style=for-the-badge&logo=rockylinux&logoColor=E0F2FE)
 ![Red Hat Linux](https://img.shields.io/badge/Red_Hat_Linux-1D4ED8?style=for-the-badge&logo=redhat&logoColor=E0F2FE)
-![CentOS](https://img.shields.io/badge/CentOS-0E7490?style=for-the-badge&logo=centos&logoColor=E0F2FE)
+![CentOS](https://img.shields.io/badge/CentOS-2563EB?style=for-the-badge&logo=centos&logoColor=E0F2FE)
 ![AWS](https://img.shields.io/badge/AWS-123B63?style=for-the-badge&logo=amazonwebservices&logoColor=E0F2FE)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-155E75?style=for-the-badge&logoColor=E0F2FE)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-1E40AF?style=for-the-badge&logoColor=E0F2FE)
 ![SSH](https://img.shields.io/badge/SSH-1D4ED8?style=for-the-badge&logoColor=E0F2FE)
-![rsync](https://img.shields.io/badge/rsync-0E7490?style=for-the-badge&logoColor=E0F2FE)
+![rsync](https://img.shields.io/badge/rsync-2563EB?style=for-the-badge&logoColor=E0F2FE)
 
 ### DevOps & observability
 
 ![Docker](https://img.shields.io/badge/Docker-123B63?style=for-the-badge&logo=docker&logoColor=E0F2FE)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-155E75?style=for-the-badge&logo=docker&logoColor=E0F2FE)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-1E40AF?style=for-the-badge&logo=docker&logoColor=E0F2FE)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1D4ED8?style=for-the-badge&logo=githubactions&logoColor=E0F2FE)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0E7490?style=for-the-badge&logo=githubactions&logoColor=E0F2FE)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2563EB?style=for-the-badge&logo=githubactions&logoColor=E0F2FE)
 ![DevOps](https://img.shields.io/badge/DevOps-123B63?style=for-the-badge&logoColor=E0F2FE)
-![Prometheus](https://img.shields.io/badge/Prometheus-155E75?style=for-the-badge&logo=prometheus&logoColor=E0F2FE)
+![Prometheus](https://img.shields.io/badge/Prometheus-1E40AF?style=for-the-badge&logo=prometheus&logoColor=E0F2FE)
 ![Grafana](https://img.shields.io/badge/Grafana-1D4ED8?style=for-the-badge&logo=grafana&logoColor=E0F2FE)
 
 ### Security & investigation
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0E7490?style=for-the-badge&logoColor=E0F2FE)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2563EB?style=for-the-badge&logoColor=E0F2FE)
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-123B63?style=for-the-badge&logoColor=E0F2FE)
-![SHA256](https://img.shields.io/badge/SHA256-155E75?style=for-the-badge&logoColor=E0F2FE)
+![SHA256](https://img.shields.io/badge/SHA256-1E40AF?style=for-the-badge&logoColor=E0F2FE)
 ![GPG](https://img.shields.io/badge/GPG-1D4ED8?style=for-the-badge&logo=gnuprivacyguard&logoColor=E0F2FE)
-![Backup & Recovery](https://img.shields.io/badge/Backup_%26_Recovery-0E7490?style=for-the-badge&logoColor=E0F2FE)
+![Backup & Recovery](https://img.shields.io/badge/Backup_%26_Recovery-2563EB?style=for-the-badge&logoColor=E0F2FE)
 
 ### AI & ongoing studies
 
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-123B63?style=for-the-badge&logoColor=E0F2FE)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-155E75?style=for-the-badge&logo=scikitlearn&logoColor=E0F2FE)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-1E40AF?style=for-the-badge&logo=scikitlearn&logoColor=E0F2FE)
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-1D4ED8?style=for-the-badge&logoColor=E0F2FE)
 
 Tools used in projects and labs, alongside subjects I am studying. [Skills and learning context](docs/professional-background.md#technical-skills-listed-on-linkedin).
@@ -179,12 +181,7 @@ Our shared work includes curriculum, demonstrations, recording, quizzes, present
 
 <a href="./contribution-data.json"><img src="./contribution-activity.svg" width="100%" alt="GitHub contribution activity snapshot, January through 24 October 2026; October is partial" /></a>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HaziqBinAfzal&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=38BDF8&amp;icon_color=22D3EE&amp;text_color=CBD5E1&amp;rank_icon=github" width="49%" alt="Haziq's public GitHub activity statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaziqBinAfzal&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=38BDF8&amp;text_color=CBD5E1&amp;langs_count=6" width="49%" alt="Language distribution in Haziq's public repositories" />
-</p>
-
-<sub>Contribution chart is a dated snapshot, with October partial. Statistics use external services; language distribution does not measure proficiency.</sub>
+<sub>Dated snapshot of GitHub’s displayed calendar through 24 October 2026; October is partial. [Source counts](contribution-data.json). See GitHub’s contribution calendar below for current activity.</sub>
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
