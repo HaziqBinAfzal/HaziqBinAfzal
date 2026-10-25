@@ -6,8 +6,6 @@
 
 **Co-Founder & CTO, HR-Presents** · **Udemy Instructor** · **AIOPS Level 6 Student**
 
-**Building secure software. Automating infrastructure. Making engineering decisions traceable.**
-
 Python applications · Defensive security · Linux systems · DevOps & observability
 
 Abu Dhabi, UAE
@@ -22,16 +20,7 @@ Abu Dhabi, UAE
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
-## Engineering focus
-
-I build and document practical systems across **Python, cybersecurity, Linux, cloud and DevOps**. My focus is on how software behaves, how infrastructure can be recovered, and how claims can be checked against reproducible evidence.
-
-**My approach:** Build a working system → test it → investigate failures → retain the evidence → explain the limits.
-
-| Build | Investigate | Operate |
-| :--- | :--- | :--- |
-| Python · Flask · REST APIs | Log analysis · Defensive security | Linux · SSH · Docker |
-| Automation · Code quality | Evidence review · Recovery | CI/CD · Prometheus · Grafana |
+I build Python applications and work on Linux, security and DevOps projects. The projects below include source code or public case studies, contributor details and dated verification records.
 
 ## Selected engineering work
 
@@ -41,16 +30,11 @@ I build and document practical systems across **Python, cybersecurity, Linux, cl
 <tr>
 <td width="50%" valign="top">
 <a href="docs/case-studies/sentrix.md"><img src="./card-sentrix.svg" width="100%" alt="Sentrix V1 — Python code security and quality analyzer" /></a>
-<h3>Sentrix V1</h3>
-<p><strong>Python code security & quality analyzer</strong></p>
 <p>A collaborative HR-Presents product combining Bandit, Pylint, Radon and Black for security, quality, complexity and formatting analysis.</p>
-<p><strong>Engineering focus:</strong> bringing security and quality checks into one reviewable Python analysis workflow.</p>
-<p><a href="docs/case-studies/sentrix.md"><strong>Product case study →</strong></a> · <a href="https://github.com/HR-Presents/HR-Presents-Sentrix">Repository</a></p>
+<p><a href="docs/case-studies/sentrix.md"><strong>Product case study →</strong></a> · <span>Private source</span></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/HR-Presents/AegisLog"><img src="./card-aegislog.svg" width="100%" alt="AegisLog — defensive log investigation" /></a>
-<h3>AegisLog</h3>
-<p><strong>Defensive log investigation</strong></p>
 <p>Read-only security log investigation with evidence review and local HTML reporting, supported by reproducible synthetic verification.</p>
 <p><strong>Verified Linux source run:</strong> 689 tests passed; 9 recognized synthetic records, 2 findings and 1 incident (24 Oct 2026).</p>
 <p><a href="docs/case-studies/aegislog.md"><strong>Engineering case study →</strong></a> · <a href="https://github.com/HR-Presents/AegisLog">Repository</a> · <a href="docs/verification/2026-10-24/README.md">Test evidence</a></p>
@@ -64,14 +48,12 @@ I build and document practical systems across **Python, cybersecurity, Linux, cl
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/HaziqBinAfzal/AquaVigil"><img src="./card-aquavigil.svg" width="100%" alt="AquaVigil" /></a>
-<p><strong>AquaVigil</strong></p>
 <p>Educational water/process and OT evidence analysis with Prometheus and Grafana observability.</p>
 <p><strong>Verified Linux source run:</strong> 14 tests passed, 361 warnings (24 Oct 2026).</p>
 <a href="docs/case-studies/aquavigil.md">Case study →</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/HaziqBinAfzal/AI-Log-Analyzer"><img src="./card-ai-log.svg" width="100%" alt="AI Log Analyzer" /></a>
-<p><strong>AI Log Analyzer</strong></p>
 <p>Collaborative Flask log-analysis dashboard; Haziq contributed frontend UI and API integration.</p>
 <a href="docs/professional-background.md#additional-github-work">Contribution details →</a>
 </td>
@@ -79,13 +61,11 @@ I build and document practical systems across **Python, cybersecurity, Linux, cl
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/HaziqBinAfzal/linux-backup-recovery-system"><img src="./card-linux-backup.svg" width="100%" alt="Linux Backup and Recovery" /></a>
-<p><strong>Linux Backup & Recovery</strong></p>
 <p>Documented backup and restoration using rsync, tar, GPG, SHA256, SSH and cron.</p>
 <a href="docs/professional-background.md#enterprise-linux-backup--recovery-system">Workflow and team credits →</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/HaziqBinAfzal/jira-python-automation-bot"><img src="./card-jira.svg" width="100%" alt="Jira Python Automation" /></a>
-<p><strong>Jira Python Automation</strong></p>
 <p>Collaborative Python REST API project for issue creation and workflow automation.</p>
 <a href="https://github.com/HaziqBinAfzal/jira-python-automation-bot">Repository →</a>
 </td>
