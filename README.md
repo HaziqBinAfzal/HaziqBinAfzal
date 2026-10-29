@@ -159,8 +159,8 @@ Our shared work includes curriculum, demonstrations, recording, quizzes, present
 <sub>Automatically refreshed every six hours. Cards show the last successful refresh time. Public non-fork language share is not a proficiency score. Historical verification retains its date.</sub>
 
 <p align="center">
-<img src="./assets/dynamic/stats.svg" width="53%" alt="Automatically refreshed public GitHub statistics" />
-<img src="./assets/dynamic/languages.svg" width="43%" alt="Automatically refreshed public non-fork language distribution" />
+<img src="./assets/dynamic/stats.svg" width="49%" alt="Automatically refreshed public GitHub statistics" />
+<img src="./assets/dynamic/languages.svg" width="49%" alt="Automatically refreshed public non-fork language distribution" />
 </p>
 
 <img src="./section-divider.svg" width="100%" alt="" />
@@ -230,18 +230,3 @@ I am open to opportunities in **Python engineering, Linux administration, securi
 <p align="center"><a href="#featured-engineering-work">Explore engineering work</a> · <a href="https://www.linkedin.com/in/haziq-afzal/">Connect on LinkedIn</a> · <a href="#our-udemy-courses">View courses</a></p>
 
 
-### Shared products & courses
-
-<!-- SHARED-CONTENT:START -->
-**Sentrix V1** — Python security and code-quality review with structured findings and reports.  
-[![Open Sentrix V1](https://img.shields.io/badge/Sentrix%20V1-63B3FF?style=flat-square)](https://github.com/HaziqBinAfzal/HaziqBinAfzal/blob/main/docs/case-studies/sentrix.md)
-
-**AegisLog** — Local defensive log investigation, retained evidence and HTML reports.  
-[![Open AegisLog](https://img.shields.io/badge/AegisLog-63B3FF?style=flat-square)](https://github.com/HR-Presents/AegisLog)
-
-**Docker Pro Skills** — Build, secure and deploy applications with containers, Compose and practical labs.  
-[![Open Docker Pro Skills](https://img.shields.io/badge/Docker%20Pro%20Skills-63B3FF?style=flat-square)](https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/)
-
-**Think Before You Click** — Online safety through scam recognition, account protection and practical scenarios.  
-[![Open Think Before You Click](https://img.shields.io/badge/Think%20Before%20You%20Click-63B3FF?style=flat-square)](https://www.udemy.com/course/think-before-you-click-the-online-safety-course/)
-<!-- SHARED-CONTENT:END -->
