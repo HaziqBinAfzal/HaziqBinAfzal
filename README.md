@@ -150,11 +150,11 @@ Our shared work includes curriculum, demonstrations, recording, quizzes, present
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
-## Development activity
+## Development graph
 
 *Activity snapshots provide context, not a measure of engineering quality.*
 
-<a href="./assets/dynamic/data.json"><img src="./assets/dynamic/activity.svg" width="100%" alt="Automatically refreshed rolling-year GitHub contribution activity" /></a>
+<a href="./assets/dynamic/data.json"><img src="./assets/dynamic/activity.svg" width="100%" alt="Automatically refreshed monthly GitHub development graph" /></a>
 
 <sub>Automatically refreshed every six hours. Cards show the last successful refresh time. Public non-fork language share is not a proficiency score. Historical verification retains its date.</sub>
 
