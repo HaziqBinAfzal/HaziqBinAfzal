@@ -1,11 +1,11 @@
 {
   "account": "HaziqBinAfzal",
-  "updated_at": "2026-11-20 20:32 UTC",
+  "updated_at": "2026-11-21 07:24 UTC",
   "profile": {
     "login": "HaziqBinAfzal",
     "followers": 5,
     "following": 2,
-    "public_repos": 13
+    "public_repos": 14
   },
   "repos": [
     {
@@ -34,6 +34,15 @@
       "forks_count": 0,
       "language": "Python",
       "fork": true
+    },
+    {
+      "full_name": "HaziqBinAfzal/DevOps-Project-01-Linux-Fundamentals",
+      "html_url": "https://github.com/HaziqBinAfzal/DevOps-Project-01-Linux-Fundamentals",
+      "description": "Linux Operations Lab \u2014 Linux administration, Bash automation, application deployment, security hardening, monitoring, backup, recovery and automated CI verification.DevOps-Project-01-Linux-Fundamentals",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "language": "Shell",
+      "fork": false
     },
     {
       "full_name": "HaziqBinAfzal/docker-github-lab",
@@ -128,16 +137,16 @@
   ],
   "languages": {
     "Python": 67287,
-    "HTML": 63933,
+    "HTML": 65205,
     "PowerShell": 8196,
-    "Shell": 3729,
+    "Shell": 16150,
     "JavaScript": 1798,
     "Batchfile": 689,
     "Dockerfile": 914,
     "VBScript": 291
   },
   "contributions": {
-    "total": 546,
+    "total": 551,
     "daily": [
       {
         "date": "2025-11-16",
@@ -1618,10 +1627,14 @@
       {
         "date": "2026-11-20",
         "count": 0
+      },
+      {
+        "date": "2026-11-21",
+        "count": 5
       }
     ],
     "source": "GitHub GraphQL contributionCalendar",
-    "commits": 161,
+    "commits": 165,
     "pull_requests": 6,
     "issues": 0
   }
