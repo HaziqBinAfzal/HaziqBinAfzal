@@ -1,11 +1,11 @@
 {
   "account": "HaziqBinAfzal",
-  "updated_at": "2026-11-21 19:29 UTC",
+  "updated_at": "2026-11-22 07:06 UTC",
   "profile": {
     "login": "HaziqBinAfzal",
     "followers": 5,
     "following": 2,
-    "public_repos": 14
+    "public_repos": 15
   },
   "repos": [
     {
@@ -49,6 +49,15 @@
       "html_url": "https://github.com/HaziqBinAfzal/docker-github-lab",
       "description": "Flask and Docker Compose learning lab with non-root containers, health checks, HTTP tests and GitHub Actions CI.",
       "stargazers_count": 1,
+      "forks_count": 0,
+      "language": "Python",
+      "fork": false
+    },
+    {
+      "full_name": "HaziqBinAfzal/FORGE-Linux-Engineering-Workbench",
+      "html_url": "https://github.com/HaziqBinAfzal/FORGE-Linux-Engineering-Workbench",
+      "description": "Interactive Linux CLI training and engineering workbench for DecodeLabs DevOps Project 1",
+      "stargazers_count": 0,
       "forks_count": 0,
       "language": "Python",
       "fork": false
@@ -136,46 +145,19 @@
     }
   ],
   "languages": {
-    "Python": 67287,
-    "HTML": 65205,
+    "Python": 146170,
+    "HTML": 72704,
     "PowerShell": 8196,
-    "Shell": 16150,
-    "JavaScript": 1798,
+    "Shell": 28728,
+    "JavaScript": 4269,
     "Batchfile": 689,
     "Dockerfile": 914,
-    "VBScript": 291
+    "VBScript": 291,
+    "CSS": 4775
   },
   "contributions": {
-    "total": 551,
+    "total": 556,
     "daily": [
-      {
-        "date": "2025-11-16",
-        "count": 0
-      },
-      {
-        "date": "2025-11-17",
-        "count": 0
-      },
-      {
-        "date": "2025-11-18",
-        "count": 0
-      },
-      {
-        "date": "2025-11-19",
-        "count": 0
-      },
-      {
-        "date": "2025-11-20",
-        "count": 0
-      },
-      {
-        "date": "2025-11-21",
-        "count": 0
-      },
-      {
-        "date": "2025-11-22",
-        "count": 0
-      },
       {
         "date": "2025-11-23",
         "count": 0
@@ -1631,10 +1613,14 @@
       {
         "date": "2026-11-21",
         "count": 5
+      },
+      {
+        "date": "2026-11-22",
+        "count": 5
       }
     ],
     "source": "GitHub GraphQL contributionCalendar",
-    "commits": 165,
+    "commits": 169,
     "pull_requests": 6,
     "issues": 0
   }
