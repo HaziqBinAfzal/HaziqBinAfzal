@@ -1,11 +1,11 @@
 {
   "account": "HaziqBinAfzal",
-  "updated_at": "2026-11-27 08:48 UTC",
+  "updated_at": "2026-11-27 21:27 UTC",
   "profile": {
     "login": "HaziqBinAfzal",
     "followers": 5,
     "following": 2,
-    "public_repos": 15
+    "public_repos": 16
   },
   "repos": [
     {
@@ -49,6 +49,15 @@
       "html_url": "https://github.com/HaziqBinAfzal/docker-github-lab",
       "description": "Flask and Docker Compose learning lab with non-root containers, health checks, HTTP tests and GitHub Actions CI.",
       "stargazers_count": 1,
+      "forks_count": 0,
+      "language": "Python",
+      "fork": false
+    },
+    {
+      "full_name": "HaziqBinAfzal/exam-project",
+      "html_url": "https://github.com/HaziqBinAfzal/exam-project",
+      "description": null,
+      "stargazers_count": 0,
       "forks_count": 0,
       "language": "Python",
       "fork": false
@@ -145,18 +154,18 @@
     }
   ],
   "languages": {
-    "Python": 174764,
-    "HTML": 72704,
+    "Python": 231533,
+    "HTML": 78603,
     "PowerShell": 8196,
-    "Shell": 28728,
-    "JavaScript": 4269,
+    "Shell": 37348,
+    "JavaScript": 15121,
     "Batchfile": 689,
     "Dockerfile": 914,
     "VBScript": 291,
     "CSS": 4775
   },
   "contributions": {
-    "total": 559,
+    "total": 611,
     "daily": [
       {
         "date": "2025-11-23",
@@ -1636,12 +1645,12 @@
       },
       {
         "date": "2026-11-27",
-        "count": 0
+        "count": 52
       }
     ],
     "source": "GitHub GraphQL contributionCalendar",
-    "commits": 172,
-    "pull_requests": 6,
+    "commits": 222,
+    "pull_requests": 7,
     "issues": 0
   }
 }
